@@ -20,6 +20,7 @@ def log(message):
 def on_open(ws):
     auth_request = {"authorize": API_TOKEN}
     ws.send(json.dumps(auth_request))
+    log("Authentication request sent.")
 
 def subscribe_to_ticks(ws, symbol="frxEURUSD"):
     ws.send(json.dumps({"ticks": symbol, "subscribe": 1}))
@@ -84,6 +85,16 @@ def on_message(ws, message):
 
     data = json.loads(message)
 
+    # Check for authorization response
+    if 'authorize' in data:
+        if data['authorize']['valid']:
+            log("Authorization successful. Subscribing to ticks...")
+            subscribe_to_ticks(ws)
+        else:
+            log(f"Authorization failed: {data['error']['message']}")
+            ws.close()
+        return
+
     if 'tick' in data:
         price = float(data['tick']['quote'])
         log(f"Current price: {price}")
@@ -105,17 +116,12 @@ def on_error(ws, error):
 def on_close(ws, close_status_code, close_msg):
     log("Connection closed")
 
-socket_url = "wss://ws.derivws.com/websockets/v3?app_id=1089"
+socket_url = "wss://ws.derivws.com/websockets/v3?app_id=72161"
 ws = websocket.WebSocketApp(socket_url,
                              on_open=on_open,
                              on_message=on_message,
                              on_error=on_error,
                              on_close=on_close)
 
-# Attach subscription after authorization
-def after_auth(ws):
-    subscribe_to_ticks(ws)
 
-on_open = lambda ws: (on_open(ws), after_auth(ws))
-
-ws.run_forever()
+ws.run_forever(ping_interval=30, ping_timeout=10)
