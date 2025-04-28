@@ -1,8 +1,9 @@
+import os
 from datetime import datetime
 import websocket
 import json
 
-API_TOKEN = "***********OFRp"
+API_TOKEN = os.getenv("DERIV_API_TOKEN", "**********Go2Hj")  
 previous_tick = None
 
 active_contract_id = None
@@ -85,17 +86,18 @@ def on_message(ws, message):
 
     data = json.loads(message)
 
-    # Check for authorization response
-    if 'authorize' in data:
-        if data['authorize']['valid']:
-            log("Authorization successful. Subscribing to ticks...")
-            subscribe_to_ticks(ws)
-        else:
-            log(f"Authorization failed: {data['error']['message']}")
-            ws.close()
+     # Check for authorization response
+    if data.get('msg_type') == 'authorize':
+        log("Authorization successful. Subscribing to ticks...")
+        subscribe_to_ticks(ws)
         return
 
-    if 'tick' in data:
+    elif data.get('error'):
+        log(f"Authorization failed: {data['error']['message']}")
+        ws.close()
+        return
+
+    elif 'tick' in data:
         price = float(data['tick']['quote'])
         log(f"Current price: {price}")
         signal = analyze_market(price)
@@ -103,11 +105,11 @@ def on_message(ws, message):
             log(f"Signal detected: {signal.upper()} — Placing order...")
             place_order(ws, signal)
 
-    if 'buy' in data:
+    elif 'buy' in data:
         active_contract_id = data['buy']['contract_id']
         log(f"Trade opened! Contract ID: {active_contract_id}")
 
-    if 'contract_update' in data and active_contract_id:
+    elif 'contract_update' in data and active_contract_id:
         monitor_profit_loss(ws, data)
 
 def on_error(ws, error):
