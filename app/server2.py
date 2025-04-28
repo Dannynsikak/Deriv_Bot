@@ -5,7 +5,7 @@ from datetime import datetime
 import websocket
 
 # ===== CONFIGURATION =====
-API_TOKEN = os.getenv("DERIV_API_TOKEN", "H0dsJEWJ4cGo2Hj")  # Load from env var
+API_TOKEN = os.getenv("DERIV_API_TOKEN", "**********Go2Hj")  # Load from env var
 SYMBOL = "frxEURUSD"
 STOP_LOSS = -1.0  # USD
 TAKE_PROFIT = 2.0  # USD
