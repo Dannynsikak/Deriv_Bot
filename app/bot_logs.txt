@@ -1257,3 +1257,2825 @@
 [2025-04-28 13:18:01]  Current price: 1.13598
 [2025-04-28 13:18:02]  Error: 
 [2025-04-28 13:18:02]  Connection closed
+[2025-04-29 15:23:43]  Authentication request sent.
+[2025-04-29 15:23:43]  Authorization successful. Subscribing to ticks...
+[2025-04-29 15:23:44]  Current price: 1.13976
+[2025-04-29 15:23:45]  Current price: 1.13976
+[2025-04-29 15:23:46]  Current price: 1.13976
+[2025-04-29 15:23:47]  Current price: 1.13976
+[2025-04-29 15:23:48]  Current price: 1.13976
+[2025-04-29 15:23:49]  Current price: 1.13976
+[2025-04-29 15:23:50]  Current price: 1.13977
+[2025-04-29 15:23:51]  Current price: 1.1398
+[2025-04-29 15:23:52]  Current price: 1.13982
+[2025-04-29 15:23:53]  Current price: 1.13983
+[2025-04-29 15:23:54]  Current price: 1.13985
+[2025-04-29 15:23:55]  Current price: 1.13988
+[2025-04-29 15:23:56]  Current price: 1.13984
+[2025-04-29 15:23:57]  Current price: 1.13984
+[2025-04-29 15:23:57]  RSI: 70.39
+[2025-04-29 15:23:57]  Signal detected: SELL — Placing order...
+[2025-04-29 15:23:57]  Authorization failed: Input validation failed: buy
+[2025-04-29 15:23:58]  Connection closed
+[2025-04-29 15:26:25]  Authentication request sent.
+[2025-04-29 15:26:25]  Authorization successful. Subscribing to ticks...
+[2025-04-29 15:26:26]  Current price: 1.13995
+[2025-04-29 15:26:27]  Current price: 1.13994
+[2025-04-29 15:26:28]  Current price: 1.13994
+[2025-04-29 15:26:29]  Current price: 1.1399
+[2025-04-29 15:26:30]  Current price: 1.13989
+[2025-04-29 15:26:31]  Current price: 1.13985
+[2025-04-29 15:26:32]  Current price: 1.13987
+[2025-04-29 15:26:33]  Current price: 1.13985
+[2025-04-29 15:26:34]  Current price: 1.13985
+[2025-04-29 15:26:35]  Current price: 1.13993
+[2025-04-29 15:26:36]  Current price: 1.13997
+[2025-04-29 15:26:37]  Current price: 1.13998
+[2025-04-29 15:26:38]  Current price: 1.13998
+[2025-04-29 15:26:39]  Current price: 1.14
+[2025-04-29 15:26:39]  RSI: 67.62
+[2025-04-29 15:26:40]  Current price: 1.13999
+[2025-04-29 15:26:40]  RSI: 64.08
+[2025-04-29 15:26:41]  Current price: 1.14003
+[2025-04-29 15:26:41]  RSI: 70.68
+[2025-04-29 15:26:41]  Signal detected: SELL — Placing order...
+[2025-04-29 15:26:41]  Authorization failed: Please log in.
+[2025-04-29 15:26:41]  Connection closed
+[2025-04-29 15:35:54]  Authentication request sent.
+[2025-04-29 15:35:54]  Authorization successful. Subscribing to ticks...
+[2025-04-29 15:35:55]  Current price: 1.14058
+[2025-04-29 15:35:56]  Current price: 1.14057
+[2025-04-29 15:35:57]  Current price: 1.14058
+[2025-04-29 15:35:58]  Current price: 1.14058
+[2025-04-29 15:35:59]  Current price: 1.14058
+[2025-04-29 15:36:01]  Current price: 1.14057
+[2025-04-29 15:36:01]  Current price: 1.14057
+[2025-04-29 15:36:02]  Current price: 1.14056
+[2025-04-29 15:36:03]  Current price: 1.14058
+[2025-04-29 15:36:04]  Current price: 1.14057
+[2025-04-29 15:36:05]  Current price: 1.14058
+[2025-04-29 15:36:06]  Current price: 1.14059
+[2025-04-29 15:36:07]  Current price: 1.14057
+[2025-04-29 15:36:08]  Current price: 1.14057
+[2025-04-29 15:36:08]  RSI: 45.32
+[2025-04-29 15:36:09]  Current price: 1.14058
+[2025-04-29 15:36:09]  RSI: 52.04
+[2025-04-29 15:36:10]  Current price: 1.14058
+[2025-04-29 15:36:10]  RSI: 52.04
+[2025-04-29 15:36:11]  Current price: 1.14058
+[2025-04-29 15:36:11]  RSI: 52.04
+[2025-04-29 15:36:12]  Current price: 1.14058
+[2025-04-29 15:36:12]  RSI: 52.04
+[2025-04-29 15:36:13]  Current price: 1.14058
+[2025-04-29 15:36:13]  RSI: 52.04
+[2025-04-29 15:36:14]  Current price: 1.14059
+[2025-04-29 15:36:14]  RSI: 59.28
+[2025-04-29 15:36:15]  Current price: 1.1406
+[2025-04-29 15:36:15]  RSI: 64.98
+[2025-04-29 15:36:16]  Current price: 1.1406
+[2025-04-29 15:36:16]  RSI: 64.98
+[2025-04-29 15:36:17]  Current price: 1.1406
+[2025-04-29 15:36:17]  RSI: 64.98
+[2025-04-29 15:36:18]  Current price: 1.1406
+[2025-04-29 15:36:18]  RSI: 64.98
+[2025-04-29 15:36:19]  Current price: 1.14056
+[2025-04-29 15:36:19]  RSI: 37.07
+[2025-04-29 15:36:20]  Current price: 1.14055
+[2025-04-29 15:36:20]  RSI: 33.23
+[2025-04-29 15:36:21]  Current price: 1.14054
+[2025-04-29 15:36:21]  RSI: 29.90
+[2025-04-29 15:36:21]  Signal detected: BUY — Placing order...
+[2025-04-29 15:36:21]  Authorization failed: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:36:22]  Connection closed
+[2025-04-29 15:40:49]  Authentication request sent.
+[2025-04-29 15:40:49]  Authorization successful. Subscribing to ticks...
+[2025-04-29 15:40:50]  Current price: 1.1408
+[2025-04-29 15:40:51]  Current price: 1.14078
+[2025-04-29 15:40:52]  Current price: 1.14074
+[2025-04-29 15:40:53]  Current price: 1.14055
+[2025-04-29 15:40:54]  Current price: 1.1405
+[2025-04-29 15:40:55]  Current price: 1.14049
+[2025-04-29 15:40:56]  Current price: 1.14046
+[2025-04-29 15:40:57]  Current price: 1.14044
+[2025-04-29 15:40:58]  Current price: 1.14041
+[2025-04-29 15:40:59]  Current price: 1.14041
+[2025-04-29 15:41:00]  Current price: 1.14037
+[2025-04-29 15:41:01]  Current price: 1.14035
+[2025-04-29 15:41:02]  Current price: 1.14032
+[2025-04-29 15:41:03]  Current price: 1.14032
+[2025-04-29 15:41:03]  RSI: 0.00
+[2025-04-29 15:41:03]  Signal detected: BUY — Placing order...
+[2025-04-29 15:41:03]  Authorization failed: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:41:03]  Connection closed
+[2025-04-29 15:41:35]  Authentication request sent.
+[2025-04-29 15:41:35]  Authorization successful. Subscribing to ticks...
+[2025-04-29 15:41:36]  Current price: 1.13992
+[2025-04-29 15:41:37]  Current price: 1.14
+[2025-04-29 15:41:38]  Current price: 1.14
+[2025-04-29 15:41:39]  Current price: 1.14
+[2025-04-29 15:41:40]  Current price: 1.14
+[2025-04-29 15:41:41]  Current price: 1.14001
+[2025-04-29 15:41:42]  Current price: 1.13995
+[2025-04-29 15:41:43]  Current price: 1.13988
+[2025-04-29 15:41:44]  Current price: 1.1399
+[2025-04-29 15:41:45]  Current price: 1.13992
+[2025-04-29 15:41:46]  Current price: 1.13995
+[2025-04-29 15:41:47]  Current price: 1.13996
+[2025-04-29 15:41:48]  Current price: 1.13996
+[2025-04-29 15:41:49]  Current price: 1.13997
+[2025-04-29 15:41:49]  RSI: 57.65
+[2025-04-29 15:41:50]  Current price: 1.13995
+[2025-04-29 15:41:50]  RSI: 51.79
+[2025-04-29 15:41:51]  Current price: 1.13992
+[2025-04-29 15:41:52]  RSI: 44.49
+[2025-04-29 15:41:52]  Current price: 1.13993
+[2025-04-29 15:41:52]  RSI: 47.16
+[2025-04-29 15:41:53]  Current price: 1.13987
+[2025-04-29 15:41:53]  RSI: 35.96
+[2025-04-29 15:41:54]  Current price: 1.13992
+[2025-04-29 15:41:54]  RSI: 47.21
+[2025-04-29 15:41:55]  Current price: 1.13993
+[2025-04-29 15:41:55]  RSI: 49.14
+[2025-04-29 15:41:56]  Current price: 1.13996
+[2025-04-29 15:41:56]  RSI: 54.50
+[2025-04-29 15:41:57]  Current price: 1.13995
+[2025-04-29 15:41:57]  RSI: 52.51
+[2025-04-29 15:41:58]  Current price: 1.13992
+[2025-04-29 15:41:58]  RSI: 46.98
+[2025-04-29 15:41:59]  Current price: 1.13995
+[2025-04-29 15:41:59]  RSI: 52.38
+[2025-04-29 15:42:00]  Current price: 1.13995
+[2025-04-29 15:42:00]  RSI: 52.38
+[2025-04-29 15:42:01]  Current price: 1.13996
+[2025-04-29 15:42:01]  RSI: 54.19
+[2025-04-29 15:42:02]  Current price: 1.13996
+[2025-04-29 15:42:02]  RSI: 54.19
+[2025-04-29 15:42:03]  Current price: 1.14
+[2025-04-29 15:42:03]  RSI: 61.04
+[2025-04-29 15:42:04]  Current price: 1.13999
+[2025-04-29 15:42:04]  RSI: 58.67
+[2025-04-29 15:42:05]  Current price: 1.14001
+[2025-04-29 15:42:05]  RSI: 61.85
+[2025-04-29 15:42:06]  Current price: 1.14001
+[2025-04-29 15:42:06]  RSI: 61.85
+[2025-04-29 15:42:07]  Current price: 1.14001
+[2025-04-29 15:42:07]  RSI: 61.85
+[2025-04-29 15:42:08]  Current price: 1.14005
+[2025-04-29 15:42:08]  RSI: 68.00
+[2025-04-29 15:42:09]  Current price: 1.14
+[2025-04-29 15:42:09]  RSI: 55.88
+[2025-04-29 15:42:10]  Current price: 1.14
+[2025-04-29 15:42:10]  RSI: 55.88
+[2025-04-29 15:42:11]  Current price: 1.13996
+[2025-04-29 15:42:11]  RSI: 47.95
+[2025-04-29 15:42:12]  Current price: 1.13996
+[2025-04-29 15:42:12]  RSI: 47.95
+[2025-04-29 15:42:13]  Current price: 1.13996
+[2025-04-29 15:42:13]  RSI: 47.95
+[2025-04-29 15:42:14]  Current price: 1.13997
+[2025-04-29 15:42:14]  RSI: 50.15
+[2025-04-29 15:42:15]  Current price: 1.13987
+[2025-04-29 15:42:15]  RSI: 34.42
+[2025-04-29 15:42:16]  Current price: 1.13982
+[2025-04-29 15:42:16]  RSI: 29.45
+[2025-04-29 15:42:16]  Signal detected: BUY — Placing order...
+[2025-04-29 15:42:16]  Authorization failed: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:42:16]  Connection closed
+[2025-04-29 15:49:21]  Authentication request sent.
+[2025-04-29 15:49:21]  Authorization successful. Subscribing to ticks...
+[2025-04-29 15:49:22]  Current price: 1.13879
+[2025-04-29 15:49:23]  Current price: 1.13881
+[2025-04-29 15:49:24]  Current price: 1.13882
+[2025-04-29 15:49:25]  Current price: 1.13882
+[2025-04-29 15:49:26]  Current price: 1.13883
+[2025-04-29 15:49:27]  Current price: 1.13885
+[2025-04-29 15:49:28]  Current price: 1.13886
+[2025-04-29 15:49:29]  Current price: 1.13885
+[2025-04-29 15:49:30]  Current price: 1.13885
+[2025-04-29 15:49:31]  Current price: 1.13881
+[2025-04-29 15:49:32]  Current price: 1.13873
+[2025-04-29 15:49:33]  Current price: 1.13876
+[2025-04-29 15:49:34]  Current price: 1.1388
+[2025-04-29 15:49:35]  Current price: 1.13881
+[2025-04-29 15:49:35]  RSI: 51.83
+[2025-04-29 15:49:36]  Current price: 1.13881
+[2025-04-29 15:49:36]  RSI: 51.83
+[2025-04-29 15:49:37]  Current price: 1.1388
+[2025-04-29 15:49:37]  RSI: 49.09
+[2025-04-29 15:49:38]  Current price: 1.13881
+[2025-04-29 15:49:38]  RSI: 51.83
+[2025-04-29 15:49:39]  Current price: 1.13881
+[2025-04-29 15:49:39]  RSI: 51.83
+[2025-04-29 15:49:40]  Current price: 1.13881
+[2025-04-29 15:49:40]  RSI: 51.83
+[2025-04-29 15:49:41]  Current price: 1.13881
+[2025-04-29 15:49:41]  RSI: 51.83
+[2025-04-29 15:49:42]  Current price: 1.13883
+[2025-04-29 15:49:42]  RSI: 57.92
+[2025-04-29 15:49:43]  Current price: 1.13879
+[2025-04-29 15:49:43]  RSI: 45.52
+[2025-04-29 15:49:44]  Current price: 1.13876
+[2025-04-29 15:49:44]  RSI: 38.81
+[2025-04-29 15:49:45]  Current price: 1.13876
+[2025-04-29 15:49:45]  RSI: 38.81
+[2025-04-29 15:49:46]  Current price: 1.13878
+[2025-04-29 15:49:46]  RSI: 45.07
+[2025-04-29 15:49:47]  Current price: 1.13878
+[2025-04-29 15:49:47]  RSI: 45.07
+[2025-04-29 15:49:48]  Current price: 1.13877
+[2025-04-29 15:49:48]  RSI: 42.55
+[2025-04-29 15:49:49]  Current price: 1.13876
+[2025-04-29 15:49:49]  RSI: 40.13
+[2025-04-29 15:49:50]  Current price: 1.13876
+[2025-04-29 15:49:50]  RSI: 40.13
+[2025-04-29 15:49:51]  Current price: 1.13875
+[2025-04-29 15:49:51]  RSI: 37.64
+[2025-04-29 15:49:52]  Current price: 1.13875
+[2025-04-29 15:49:52]  RSI: 37.64
+[2025-04-29 15:49:53]  Current price: 1.13875
+[2025-04-29 15:49:53]  RSI: 37.64
+[2025-04-29 15:49:54]  Current price: 1.13872
+[2025-04-29 15:49:54]  RSI: 30.56
+[2025-04-29 15:49:55]  Current price: 1.13872
+[2025-04-29 15:49:55]  RSI: 30.56
+[2025-04-29 15:49:56]  Current price: 1.13872
+[2025-04-29 15:49:56]  RSI: 30.56
+[2025-04-29 15:49:57]  Current price: 1.13872
+[2025-04-29 15:49:57]  RSI: 30.56
+[2025-04-29 15:49:58]  Current price: 1.13872
+[2025-04-29 15:49:58]  RSI: 30.56
+[2025-04-29 15:49:59]  Current price: 1.1387
+[2025-04-29 15:49:59]  RSI: 25.86
+[2025-04-29 15:49:59]  Signal detected: BUY — Placing order...
+[2025-04-29 15:49:59]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:00]  Current price: 1.13868
+[2025-04-29 15:50:00]  RSI: 22.18
+[2025-04-29 15:50:00]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:00]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:01]  Current price: 1.13865
+[2025-04-29 15:50:01]  RSI: 18.04
+[2025-04-29 15:50:01]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:01]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:02]  Current price: 1.13855
+[2025-04-29 15:50:02]  RSI: 10.80
+[2025-04-29 15:50:02]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:02]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:03]  Current price: 1.13854
+[2025-04-29 15:50:03]  RSI: 10.35
+[2025-04-29 15:50:03]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:03]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:04]  Current price: 1.13852
+[2025-04-29 15:50:04]  RSI: 9.51
+[2025-04-29 15:50:04]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:04]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:05]  Current price: 1.13853
+[2025-04-29 15:50:05]  RSI: 13.33
+[2025-04-29 15:50:05]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:06]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:06]  Current price: 1.13856
+[2025-04-29 15:50:06]  RSI: 23.74
+[2025-04-29 15:50:06]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:06]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:07]  Current price: 1.13855
+[2025-04-29 15:50:07]  RSI: 22.76
+[2025-04-29 15:50:07]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:07]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:08]  Current price: 1.1387
+[2025-04-29 15:50:08]  RSI: 53.68
+[2025-04-29 15:50:09]  Current price: 1.13878
+[2025-04-29 15:50:09]  RSI: 62.34
+[2025-04-29 15:50:10]  Current price: 1.13876
+[2025-04-29 15:50:10]  RSI: 59.35
+[2025-04-29 15:50:11]  Current price: 1.13863
+[2025-04-29 15:50:11]  RSI: 44.44
+[2025-04-29 15:50:12]  Current price: 1.13857
+[2025-04-29 15:50:12]  RSI: 39.51
+[2025-04-29 15:50:13]  Current price: 1.1386
+[2025-04-29 15:50:13]  RSI: 42.92
+[2025-04-29 15:50:14]  Current price: 1.13859
+[2025-04-29 15:50:14]  RSI: 42.07
+[2025-04-29 15:50:15]  Current price: 1.13857
+[2025-04-29 15:50:15]  RSI: 40.35
+[2025-04-29 15:50:16]  Current price: 1.13858
+[2025-04-29 15:50:16]  RSI: 41.63
+[2025-04-29 15:50:17]  Current price: 1.13858
+[2025-04-29 15:50:17]  RSI: 41.63
+[2025-04-29 15:50:18]  Current price: 1.13858
+[2025-04-29 15:50:18]  RSI: 41.63
+[2025-04-29 15:50:19]  Current price: 1.1386
+[2025-04-29 15:50:19]  RSI: 44.62
+[2025-04-29 15:50:20]  Current price: 1.13861
+[2025-04-29 15:50:20]  RSI: 46.11
+[2025-04-29 15:50:21]  Current price: 1.13862
+[2025-04-29 15:50:21]  RSI: 47.62
+[2025-04-29 15:50:22]  Current price: 1.13862
+[2025-04-29 15:50:22]  RSI: 47.62
+[2025-04-29 15:50:23]  Current price: 1.13862
+[2025-04-29 15:50:23]  RSI: 47.62
+[2025-04-29 15:50:24]  Current price: 1.1386
+[2025-04-29 15:50:24]  RSI: 44.50
+[2025-04-29 15:50:25]  Current price: 1.1386
+[2025-04-29 15:50:25]  RSI: 44.50
+[2025-04-29 15:50:26]  Current price: 1.1386
+[2025-04-29 15:50:26]  RSI: 44.50
+[2025-04-29 15:50:27]  Current price: 1.13862
+[2025-04-29 15:50:27]  RSI: 48.70
+[2025-04-29 15:50:28]  Current price: 1.13862
+[2025-04-29 15:50:28]  RSI: 48.70
+[2025-04-29 15:50:29]  Current price: 1.13865
+[2025-04-29 15:50:29]  RSI: 54.66
+[2025-04-29 15:50:30]  Current price: 1.13865
+[2025-04-29 15:50:30]  RSI: 54.66
+[2025-04-29 15:50:31]  Current price: 1.13864
+[2025-04-29 15:50:31]  RSI: 52.31
+[2025-04-29 15:50:32]  Current price: 1.13863
+[2025-04-29 15:50:32]  RSI: 50.00
+[2025-04-29 15:50:33]  Current price: 1.13863
+[2025-04-29 15:50:33]  RSI: 50.00
+[2025-04-29 15:50:34]  Current price: 1.13857
+[2025-04-29 15:50:34]  RSI: 38.22
+[2025-04-29 15:50:35]  Current price: 1.13856
+[2025-04-29 15:50:35]  RSI: 36.67
+[2025-04-29 15:50:36]  Current price: 1.1386
+[2025-04-29 15:50:36]  RSI: 46.09
+[2025-04-29 15:50:37]  Current price: 1.13859
+[2025-04-29 15:50:37]  RSI: 44.31
+[2025-04-29 15:50:38]  Current price: 1.1386
+[2025-04-29 15:50:38]  RSI: 46.53
+[2025-04-29 15:50:39]  Current price: 1.13856
+[2025-04-29 15:50:39]  RSI: 39.72
+[2025-04-29 15:50:40]  Current price: 1.13856
+[2025-04-29 15:50:40]  RSI: 39.72
+[2025-04-29 15:50:41]  Current price: 1.13856
+[2025-04-29 15:50:41]  RSI: 39.72
+[2025-04-29 15:50:42]  Current price: 1.1386
+[2025-04-29 15:50:42]  RSI: 49.04
+[2025-04-29 15:50:43]  Current price: 1.1386
+[2025-04-29 15:50:43]  RSI: 49.04
+[2025-04-29 15:50:44]  Current price: 1.13861
+[2025-04-29 15:50:44]  RSI: 51.22
+[2025-04-29 15:50:45]  Current price: 1.13861
+[2025-04-29 15:50:45]  RSI: 51.22
+[2025-04-29 15:50:46]  Current price: 1.1386
+[2025-04-29 15:50:46]  RSI: 48.80
+[2025-04-29 15:50:47]  Current price: 1.13861
+[2025-04-29 15:50:47]  RSI: 51.28
+[2025-04-29 15:50:48]  Current price: 1.13858
+[2025-04-29 15:50:48]  RSI: 44.33
+[2025-04-29 15:50:49]  Current price: 1.13854
+[2025-04-29 15:50:49]  RSI: 37.10
+[2025-04-29 15:50:50]  Current price: 1.13853
+[2025-04-29 15:50:50]  RSI: 35.54
+[2025-04-29 15:50:51]  Current price: 1.13853
+[2025-04-29 15:50:51]  RSI: 35.54
+[2025-04-29 15:50:52]  Current price: 1.13852
+[2025-04-29 15:50:52]  RSI: 33.89
+[2025-04-29 15:50:53]  Current price: 1.13847
+[2025-04-29 15:50:53]  RSI: 27.11
+[2025-04-29 15:50:53]  Signal detected: BUY — Placing order...
+[2025-04-29 15:50:53]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:50:54]  Current price: 1.13851
+[2025-04-29 15:50:54]  RSI: 37.83
+[2025-04-29 15:50:55]  Current price: 1.13851
+[2025-04-29 15:50:55]  RSI: 37.83
+[2025-04-29 15:50:56]  Current price: 1.13851
+[2025-04-29 15:50:56]  RSI: 37.83
+[2025-04-29 15:50:57]  Current price: 1.1385
+[2025-04-29 15:50:57]  RSI: 36.17
+[2025-04-29 15:50:58]  Current price: 1.1385
+[2025-04-29 15:50:58]  RSI: 36.17
+[2025-04-29 15:50:59]  Current price: 1.1385
+[2025-04-29 15:50:59]  RSI: 36.17
+[2025-04-29 15:51:00]  Current price: 1.13846
+[2025-04-29 15:51:00]  RSI: 29.66
+[2025-04-29 15:51:00]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:00]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:01]  Current price: 1.13841
+[2025-04-29 15:51:01]  RSI: 23.88
+[2025-04-29 15:51:01]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:01]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:02]  Current price: 1.13841
+[2025-04-29 15:51:02]  RSI: 23.88
+[2025-04-29 15:51:02]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:02]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:03]  Current price: 1.13841
+[2025-04-29 15:51:03]  RSI: 23.88
+[2025-04-29 15:51:03]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:03]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:04]  Current price: 1.13835
+[2025-04-29 15:51:04]  RSI: 18.48
+[2025-04-29 15:51:04]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:04]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:05]  Current price: 1.13835
+[2025-04-29 15:51:05]  RSI: 18.48
+[2025-04-29 15:51:05]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:05]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:06]  Current price: 1.13838
+[2025-04-29 15:51:06]  RSI: 27.93
+[2025-04-29 15:51:06]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:06]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:07]  Current price: 1.1384
+[2025-04-29 15:51:07]  RSI: 33.47
+[2025-04-29 15:51:08]  Current price: 1.13841
+[2025-04-29 15:51:08]  RSI: 36.11
+[2025-04-29 15:51:09]  Current price: 1.13835
+[2025-04-29 15:51:09]  RSI: 28.73
+[2025-04-29 15:51:09]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:09]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:10]  Current price: 1.1383
+[2025-04-29 15:51:10]  RSI: 24.28
+[2025-04-29 15:51:10]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:10]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:11]  Current price: 1.13828
+[2025-04-29 15:51:11]  RSI: 22.76
+[2025-04-29 15:51:11]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:11]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:12]  Current price: 1.13827
+[2025-04-29 15:51:12]  RSI: 22.02
+[2025-04-29 15:51:12]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:12]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:13]  Current price: 1.13828
+[2025-04-29 15:51:13]  RSI: 24.66
+[2025-04-29 15:51:13]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:13]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:14]  Current price: 1.13828
+[2025-04-29 15:51:14]  RSI: 24.66
+[2025-04-29 15:51:14]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:14]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:15]  Current price: 1.13829
+[2025-04-29 15:51:15]  RSI: 27.52
+[2025-04-29 15:51:15]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:15]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:16]  Current price: 1.13829
+[2025-04-29 15:51:16]  RSI: 27.52
+[2025-04-29 15:51:16]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:16]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:17]  Current price: 1.13828
+[2025-04-29 15:51:17]  RSI: 26.36
+[2025-04-29 15:51:17]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:17]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:18]  Current price: 1.13828
+[2025-04-29 15:51:18]  RSI: 26.36
+[2025-04-29 15:51:18]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:18]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:19]  Current price: 1.13829
+[2025-04-29 15:51:19]  RSI: 29.78
+[2025-04-29 15:51:19]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:19]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:20]  Current price: 1.13828
+[2025-04-29 15:51:20]  RSI: 28.36
+[2025-04-29 15:51:20]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:20]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:21]  Current price: 1.13831
+[2025-04-29 15:51:21]  RSI: 37.92
+[2025-04-29 15:51:22]  Current price: 1.13829
+[2025-04-29 15:51:22]  RSI: 34.61
+[2025-04-29 15:51:23]  Current price: 1.13828
+[2025-04-29 15:51:23]  RSI: 33.05
+[2025-04-29 15:51:24]  Current price: 1.13827
+[2025-04-29 15:51:24]  RSI: 31.52
+[2025-04-29 15:51:25]  Current price: 1.13825
+[2025-04-29 15:51:25]  RSI: 28.67
+[2025-04-29 15:51:25]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:25]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:26]  Current price: 1.13825
+[2025-04-29 15:51:26]  RSI: 28.67
+[2025-04-29 15:51:26]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:26]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:27]  Current price: 1.13825
+[2025-04-29 15:51:27]  RSI: 28.67
+[2025-04-29 15:51:27]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:27]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:28]  Current price: 1.13824
+[2025-04-29 15:51:28]  RSI: 27.14
+[2025-04-29 15:51:28]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:28]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:29]  Current price: 1.13827
+[2025-04-29 15:51:29]  RSI: 37.87
+[2025-04-29 15:51:30]  Current price: 1.13829
+[2025-04-29 15:51:30]  RSI: 43.82
+[2025-04-29 15:51:31]  Current price: 1.13829
+[2025-04-29 15:51:31]  RSI: 43.82
+[2025-04-29 15:51:32]  Current price: 1.13838
+[2025-04-29 15:51:32]  RSI: 62.53
+[2025-04-29 15:51:33]  Current price: 1.13841
+[2025-04-29 15:51:33]  RSI: 66.53
+[2025-04-29 15:51:34]  Current price: 1.13841
+[2025-04-29 15:51:34]  RSI: 66.53
+[2025-04-29 15:51:35]  Current price: 1.13835
+[2025-04-29 15:51:35]  RSI: 53.32
+[2025-04-29 15:51:36]  Current price: 1.13836
+[2025-04-29 15:51:36]  RSI: 54.93
+[2025-04-29 15:51:37]  Current price: 1.13835
+[2025-04-29 15:51:37]  RSI: 52.96
+[2025-04-29 15:51:38]  Current price: 1.13837
+[2025-04-29 15:51:38]  RSI: 56.33
+[2025-04-29 15:51:39]  Current price: 1.13837
+[2025-04-29 15:51:39]  RSI: 56.33
+[2025-04-29 15:51:40]  Current price: 1.13835
+[2025-04-29 15:51:40]  RSI: 52.02
+[2025-04-29 15:51:41]  Current price: 1.13831
+[2025-04-29 15:51:41]  RSI: 44.66
+[2025-04-29 15:51:42]  Current price: 1.13834
+[2025-04-29 15:51:42]  RSI: 50.33
+[2025-04-29 15:51:43]  Current price: 1.13827
+[2025-04-29 15:51:43]  RSI: 40.02
+[2025-04-29 15:51:44]  Current price: 1.13828
+[2025-04-29 15:51:44]  RSI: 41.85
+[2025-04-29 15:51:45]  Current price: 1.13828
+[2025-04-29 15:51:45]  RSI: 41.85
+[2025-04-29 15:51:46]  Current price: 1.13827
+[2025-04-29 15:51:46]  RSI: 40.42
+[2025-04-29 15:51:47]  Current price: 1.13828
+[2025-04-29 15:51:47]  RSI: 42.54
+[2025-04-29 15:51:48]  Current price: 1.13828
+[2025-04-29 15:51:48]  RSI: 42.54
+[2025-04-29 15:51:49]  Current price: 1.13829
+[2025-04-29 15:51:49]  RSI: 44.81
+[2025-04-29 15:51:50]  Current price: 1.13827
+[2025-04-29 15:51:50]  RSI: 41.29
+[2025-04-29 15:51:51]  Current price: 1.13827
+[2025-04-29 15:51:51]  RSI: 41.29
+[2025-04-29 15:51:52]  Current price: 1.13827
+[2025-04-29 15:51:52]  RSI: 41.29
+[2025-04-29 15:51:53]  Current price: 1.13826
+[2025-04-29 15:51:53]  RSI: 39.36
+[2025-04-29 15:51:54]  Current price: 1.13822
+[2025-04-29 15:51:54]  RSI: 32.76
+[2025-04-29 15:51:55]  Current price: 1.1382
+[2025-04-29 15:51:55]  RSI: 30.04
+[2025-04-29 15:51:56]  Current price: 1.13808
+[2025-04-29 15:51:56]  RSI: 19.57
+[2025-04-29 15:51:56]  Signal detected: BUY — Placing order...
+[2025-04-29 15:51:56]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:51:57]  Current price: 1.13816
+[2025-04-29 15:51:57]  RSI: 35.67
+[2025-04-29 15:51:58]  Current price: 1.13819
+[2025-04-29 15:51:58]  RSI: 40.48
+[2025-04-29 15:52:00]  Current price: 1.13818
+[2025-04-29 15:52:00]  RSI: 39.42
+[2025-04-29 15:52:00]  Current price: 1.13819
+[2025-04-29 15:52:00]  RSI: 41.08
+[2025-04-29 15:52:01]  Current price: 1.13814
+[2025-04-29 15:52:01]  RSI: 35.80
+[2025-04-29 15:52:02]  Current price: 1.13814
+[2025-04-29 15:52:02]  RSI: 35.80
+[2025-04-29 15:52:03]  Current price: 1.1381
+[2025-04-29 15:52:03]  RSI: 31.99
+[2025-04-29 15:52:04]  Current price: 1.13815
+[2025-04-29 15:52:04]  RSI: 40.52
+[2025-04-29 15:52:05]  Current price: 1.13815
+[2025-04-29 15:52:05]  RSI: 40.52
+[2025-04-29 15:52:06]  Current price: 1.13815
+[2025-04-29 15:52:06]  RSI: 40.52
+[2025-04-29 15:52:07]  Current price: 1.13812
+[2025-04-29 15:52:07]  RSI: 37.04
+[2025-04-29 15:52:08]  Current price: 1.13813
+[2025-04-29 15:52:08]  RSI: 38.92
+[2025-04-29 15:52:09]  Current price: 1.13812
+[2025-04-29 15:52:09]  RSI: 37.71
+[2025-04-29 15:52:10]  Current price: 1.13812
+[2025-04-29 15:52:10]  RSI: 37.71
+[2025-04-29 15:52:11]  Current price: 1.13812
+[2025-04-29 15:52:11]  RSI: 37.71
+[2025-04-29 15:52:12]  Current price: 1.13817
+[2025-04-29 15:52:12]  RSI: 47.87
+[2025-04-29 15:52:13]  Current price: 1.13817
+[2025-04-29 15:52:13]  RSI: 47.87
+[2025-04-29 15:52:14]  Current price: 1.13818
+[2025-04-29 15:52:14]  RSI: 49.77
+[2025-04-29 15:52:15]  Current price: 1.13817
+[2025-04-29 15:52:15]  RSI: 47.89
+[2025-04-29 15:52:16]  Current price: 1.1382
+[2025-04-29 15:52:16]  RSI: 53.56
+[2025-04-29 15:52:17]  Current price: 1.1382
+[2025-04-29 15:52:17]  RSI: 53.56
+[2025-04-29 15:52:18]  Current price: 1.1382
+[2025-04-29 15:52:18]  RSI: 53.56
+[2025-04-29 15:52:19]  Current price: 1.1382
+[2025-04-29 15:52:19]  RSI: 53.56
+[2025-04-29 15:52:20]  Current price: 1.1382
+[2025-04-29 15:52:20]  RSI: 53.56
+[2025-04-29 15:52:21]  Current price: 1.13821
+[2025-04-29 15:52:21]  RSI: 55.88
+[2025-04-29 15:52:22]  Current price: 1.13816
+[2025-04-29 15:52:22]  RSI: 44.04
+[2025-04-29 15:52:23]  Current price: 1.13819
+[2025-04-29 15:52:23]  RSI: 50.78
+[2025-04-29 15:52:24]  Current price: 1.13819
+[2025-04-29 15:52:24]  RSI: 50.78
+[2025-04-29 15:52:25]  Current price: 1.13819
+[2025-04-29 15:52:25]  RSI: 50.78
+[2025-04-29 15:52:26]  Current price: 1.13825
+[2025-04-29 15:52:26]  RSI: 62.16
+[2025-04-29 15:52:27]  Current price: 1.13822
+[2025-04-29 15:52:27]  RSI: 55.28
+[2025-04-29 15:52:28]  Current price: 1.13824
+[2025-04-29 15:52:28]  RSI: 58.57
+[2025-04-29 15:52:29]  Current price: 1.13824
+[2025-04-29 15:52:29]  RSI: 58.57
+[2025-04-29 15:52:30]  Current price: 1.13825
+[2025-04-29 15:52:30]  RSI: 60.27
+[2025-04-29 15:52:31]  Current price: 1.13818
+[2025-04-29 15:52:31]  RSI: 46.05
+[2025-04-29 15:52:32]  Current price: 1.1383
+[2025-04-29 15:52:32]  RSI: 62.42
+[2025-04-29 15:52:33]  Current price: 1.1383
+[2025-04-29 15:52:33]  RSI: 62.42
+[2025-04-29 15:52:34]  Current price: 1.13834
+[2025-04-29 15:52:34]  RSI: 66.36
+[2025-04-29 15:52:35]  Current price: 1.13831
+[2025-04-29 15:52:35]  RSI: 61.18
+[2025-04-29 15:52:36]  Current price: 1.13833
+[2025-04-29 15:52:36]  RSI: 63.24
+[2025-04-29 15:52:37]  Current price: 1.13831
+[2025-04-29 15:52:37]  RSI: 59.82
+[2025-04-29 15:52:38]  Current price: 1.13833
+[2025-04-29 15:52:38]  RSI: 62.03
+[2025-04-29 15:52:39]  Current price: 1.13834
+[2025-04-29 15:52:39]  RSI: 63.12
+[2025-04-29 15:52:40]  Current price: 1.13838
+[2025-04-29 15:52:40]  RSI: 67.19
+[2025-04-29 15:52:41]  Current price: 1.13838
+[2025-04-29 15:52:41]  RSI: 67.19
+[2025-04-29 15:52:42]  Current price: 1.13838
+[2025-04-29 15:52:42]  RSI: 67.19
+[2025-04-29 15:52:43]  Current price: 1.13838
+[2025-04-29 15:52:43]  RSI: 67.19
+[2025-04-29 15:52:44]  Current price: 1.13839
+[2025-04-29 15:52:44]  RSI: 68.37
+[2025-04-29 15:52:45]  Current price: 1.13837
+[2025-04-29 15:52:45]  RSI: 63.47
+[2025-04-29 15:52:46]  Current price: 1.13838
+[2025-04-29 15:52:46]  RSI: 64.83
+[2025-04-29 15:52:47]  Current price: 1.13836
+[2025-04-29 15:52:47]  RSI: 60.03
+[2025-04-29 15:52:49]  Current price: 1.13836
+[2025-04-29 15:52:49]  RSI: 60.03
+[2025-04-29 15:52:50]  Current price: 1.13835
+[2025-04-29 15:52:50]  RSI: 57.56
+[2025-04-29 15:52:51]  Current price: 1.13835
+[2025-04-29 15:52:51]  RSI: 57.56
+[2025-04-29 15:52:51]  Current price: 1.13839
+[2025-04-29 15:52:51]  RSI: 64.36
+[2025-04-29 15:52:52]  Current price: 1.13839
+[2025-04-29 15:52:52]  RSI: 64.36
+[2025-04-29 15:52:53]  Current price: 1.13847
+[2025-04-29 15:52:53]  RSI: 74.02
+[2025-04-29 15:52:53]  Signal detected: SELL — Placing order...
+[2025-04-29 15:52:53]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:52:54]  Current price: 1.13849
+[2025-04-29 15:52:54]  RSI: 75.79
+[2025-04-29 15:52:54]  Signal detected: SELL — Placing order...
+[2025-04-29 15:52:54]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:52:55]  Current price: 1.13853
+[2025-04-29 15:52:55]  RSI: 78.88
+[2025-04-29 15:52:55]  Signal detected: SELL — Placing order...
+[2025-04-29 15:52:56]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:52:56]  Current price: 1.13864
+[2025-04-29 15:52:56]  RSI: 84.68
+[2025-04-29 15:52:56]  Signal detected: SELL — Placing order...
+[2025-04-29 15:52:56]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:52:57]  Current price: 1.13873
+[2025-04-29 15:52:57]  RSI: 87.66
+[2025-04-29 15:52:57]  Signal detected: SELL — Placing order...
+[2025-04-29 15:52:58]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:52:58]  Current price: 1.13888
+[2025-04-29 15:52:58]  RSI: 90.86
+[2025-04-29 15:52:58]  Signal detected: SELL — Placing order...
+[2025-04-29 15:52:58]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:52:59]  Current price: 1.13888
+[2025-04-29 15:52:59]  RSI: 90.86
+[2025-04-29 15:52:59]  Signal detected: SELL — Placing order...
+[2025-04-29 15:52:59]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:00]  Current price: 1.1388
+[2025-04-29 15:53:00]  RSI: 78.31
+[2025-04-29 15:53:00]  Signal detected: SELL — Placing order...
+[2025-04-29 15:53:00]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:01]  Current price: 1.13879
+[2025-04-29 15:53:01]  RSI: 76.88
+[2025-04-29 15:53:01]  Signal detected: SELL — Placing order...
+[2025-04-29 15:53:01]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:02]  Current price: 1.13884
+[2025-04-29 15:53:02]  RSI: 78.95
+[2025-04-29 15:53:02]  Signal detected: SELL — Placing order...
+[2025-04-29 15:53:02]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:03]  Current price: 1.13877
+[2025-04-29 15:53:03]  RSI: 69.57
+[2025-04-29 15:53:04]  Current price: 1.13878
+[2025-04-29 15:53:04]  RSI: 70.11
+[2025-04-29 15:53:04]  Signal detected: SELL — Placing order...
+[2025-04-29 15:53:04]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:05]  Current price: 1.13878
+[2025-04-29 15:53:05]  RSI: 70.11
+[2025-04-29 15:53:05]  Signal detected: SELL — Placing order...
+[2025-04-29 15:53:05]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:06]  Current price: 1.13876
+[2025-04-29 15:53:06]  RSI: 67.31
+[2025-04-29 15:53:07]  Current price: 1.13877
+[2025-04-29 15:53:07]  RSI: 68.00
+[2025-04-29 15:53:08]  Current price: 1.13877
+[2025-04-29 15:53:08]  RSI: 68.00
+[2025-04-29 15:53:09]  Current price: 1.13877
+[2025-04-29 15:53:09]  RSI: 68.00
+[2025-04-29 15:53:10]  Current price: 1.13871
+[2025-04-29 15:53:10]  RSI: 58.72
+[2025-04-29 15:53:11]  Current price: 1.13866
+[2025-04-29 15:53:11]  RSI: 52.32
+[2025-04-29 15:53:12]  Current price: 1.13876
+[2025-04-29 15:53:12]  RSI: 61.39
+[2025-04-29 15:53:13]  Current price: 1.13881
+[2025-04-29 15:53:13]  RSI: 64.98
+[2025-04-29 15:53:14]  Current price: 1.13875
+[2025-04-29 15:53:14]  RSI: 58.01
+[2025-04-29 15:53:15]  Current price: 1.13872
+[2025-04-29 15:53:15]  RSI: 54.84
+[2025-04-29 15:53:16]  Current price: 1.13863
+[2025-04-29 15:53:16]  RSI: 46.62
+[2025-04-29 15:53:17]  Current price: 1.13855
+[2025-04-29 15:53:17]  RSI: 40.77
+[2025-04-29 15:53:18]  Current price: 1.13851
+[2025-04-29 15:53:18]  RSI: 38.19
+[2025-04-29 15:53:19]  Current price: 1.13853
+[2025-04-29 15:53:19]  RSI: 40.23
+[2025-04-29 15:53:20]  Current price: 1.13855
+[2025-04-29 15:53:20]  RSI: 42.28
+[2025-04-29 15:53:21]  Current price: 1.13856
+[2025-04-29 15:53:21]  RSI: 43.32
+[2025-04-29 15:53:22]  Current price: 1.13851
+[2025-04-29 15:53:22]  RSI: 39.47
+[2025-04-29 15:53:23]  Current price: 1.13851
+[2025-04-29 15:53:23]  RSI: 39.47
+[2025-04-29 15:53:24]  Current price: 1.1385
+[2025-04-29 15:53:24]  RSI: 38.68
+[2025-04-29 15:53:25]  Current price: 1.13847
+[2025-04-29 15:53:25]  RSI: 36.31
+[2025-04-29 15:53:26]  Current price: 1.13845
+[2025-04-29 15:53:26]  RSI: 34.78
+[2025-04-29 15:53:27]  Current price: 1.13841
+[2025-04-29 15:53:27]  RSI: 31.88
+[2025-04-29 15:53:28]  Current price: 1.13846
+[2025-04-29 15:53:28]  RSI: 38.74
+[2025-04-29 15:53:29]  Current price: 1.13846
+[2025-04-29 15:53:29]  RSI: 38.74
+[2025-04-29 15:53:30]  Current price: 1.13844
+[2025-04-29 15:53:30]  RSI: 37.01
+[2025-04-29 15:53:31]  Current price: 1.13845
+[2025-04-29 15:53:31]  RSI: 38.49
+[2025-04-29 15:53:32]  Current price: 1.13843
+[2025-04-29 15:53:32]  RSI: 36.64
+[2025-04-29 15:53:33]  Current price: 1.13844
+[2025-04-29 15:53:33]  RSI: 38.24
+[2025-04-29 15:53:34]  Current price: 1.13845
+[2025-04-29 15:53:34]  RSI: 39.88
+[2025-04-29 15:53:35]  Current price: 1.13841
+[2025-04-29 15:53:35]  RSI: 35.79
+[2025-04-29 15:53:36]  Current price: 1.13841
+[2025-04-29 15:53:36]  RSI: 35.79
+[2025-04-29 15:53:37]  Current price: 1.13845
+[2025-04-29 15:53:37]  RSI: 42.61
+[2025-04-29 15:53:38]  Current price: 1.13845
+[2025-04-29 15:53:38]  RSI: 42.61
+[2025-04-29 15:53:39]  Current price: 1.13847
+[2025-04-29 15:53:39]  RSI: 45.94
+[2025-04-29 15:53:40]  Current price: 1.13846
+[2025-04-29 15:53:40]  RSI: 44.55
+[2025-04-29 15:53:41]  Current price: 1.13849
+[2025-04-29 15:53:41]  RSI: 49.49
+[2025-04-29 15:53:42]  Current price: 1.13849
+[2025-04-29 15:53:42]  RSI: 49.49
+[2025-04-29 15:53:43]  Current price: 1.13846
+[2025-04-29 15:53:43]  RSI: 44.85
+[2025-04-29 15:53:44]  Current price: 1.13846
+[2025-04-29 15:53:44]  RSI: 44.85
+[2025-04-29 15:53:45]  Current price: 1.13846
+[2025-04-29 15:53:45]  RSI: 44.85
+[2025-04-29 15:53:46]  Current price: 1.13843
+[2025-04-29 15:53:46]  RSI: 40.15
+[2025-04-29 15:53:47]  Current price: 1.13848
+[2025-04-29 15:53:47]  RSI: 49.62
+[2025-04-29 15:53:48]  Current price: 1.13848
+[2025-04-29 15:53:48]  RSI: 49.62
+[2025-04-29 15:53:49]  Current price: 1.13848
+[2025-04-29 15:53:49]  RSI: 49.62
+[2025-04-29 15:53:50]  Current price: 1.13845
+[2025-04-29 15:53:50]  RSI: 44.36
+[2025-04-29 15:53:51]  Current price: 1.1384
+[2025-04-29 15:53:51]  RSI: 37.27
+[2025-04-29 15:53:52]  Current price: 1.13837
+[2025-04-29 15:53:52]  RSI: 33.78
+[2025-04-29 15:53:53]  Current price: 1.13831
+[2025-04-29 15:53:53]  RSI: 28.11
+[2025-04-29 15:53:53]  Signal detected: BUY — Placing order...
+[2025-04-29 15:53:54]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:54]  Current price: 1.13828
+[2025-04-29 15:53:54]  RSI: 25.78
+[2025-04-29 15:53:54]  Signal detected: BUY — Placing order...
+[2025-04-29 15:53:54]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:55]  Current price: 1.1383
+[2025-04-29 15:53:55]  RSI: 29.95
+[2025-04-29 15:53:55]  Signal detected: BUY — Placing order...
+[2025-04-29 15:53:55]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:56]  Current price: 1.1383
+[2025-04-29 15:53:56]  RSI: 29.95
+[2025-04-29 15:53:56]  Signal detected: BUY — Placing order...
+[2025-04-29 15:53:56]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:57]  Current price: 1.13825
+[2025-04-29 15:53:57]  RSI: 25.76
+[2025-04-29 15:53:57]  Signal detected: BUY — Placing order...
+[2025-04-29 15:53:57]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:58]  Current price: 1.13823
+[2025-04-29 15:53:58]  RSI: 24.29
+[2025-04-29 15:53:58]  Signal detected: BUY — Placing order...
+[2025-04-29 15:53:58]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:53:59]  Current price: 1.13825
+[2025-04-29 15:53:59]  RSI: 28.66
+[2025-04-29 15:53:59]  Signal detected: BUY — Placing order...
+[2025-04-29 15:53:59]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:54:00]  Current price: 1.13825
+[2025-04-29 15:54:00]  RSI: 28.66
+[2025-04-29 15:54:00]  Signal detected: BUY — Placing order...
+[2025-04-29 15:54:00]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:54:01]  Current price: 1.13827
+[2025-04-29 15:54:01]  RSI: 33.14
+[2025-04-29 15:54:02]  Current price: 1.13824
+[2025-04-29 15:54:02]  RSI: 30.09
+[2025-04-29 15:54:03]  Current price: 1.13825
+[2025-04-29 15:54:03]  RSI: 32.32
+[2025-04-29 15:54:04]  Current price: 1.13827
+[2025-04-29 15:54:04]  RSI: 36.69
+[2025-04-29 15:54:05]  Current price: 1.13827
+[2025-04-29 15:54:05]  RSI: 36.69
+[2025-04-29 15:54:06]  Current price: 1.13829
+[2025-04-29 15:54:06]  RSI: 41.09
+[2025-04-29 15:54:07]  Current price: 1.13826
+[2025-04-29 15:54:07]  RSI: 36.94
+[2025-04-29 15:54:08]  Current price: 1.13822
+[2025-04-29 15:54:08]  RSI: 32.26
+[2025-04-29 15:54:09]  Current price: 1.13822
+[2025-04-29 15:54:09]  RSI: 32.26
+[2025-04-29 15:54:10]  Current price: 1.13821
+[2025-04-29 15:54:10]  RSI: 31.12
+[2025-04-29 15:54:11]  Current price: 1.13823
+[2025-04-29 15:54:11]  RSI: 36.00
+[2025-04-29 15:54:12]  Current price: 1.13822
+[2025-04-29 15:54:12]  RSI: 34.68
+[2025-04-29 15:54:13]  Current price: 1.13823
+[2025-04-29 15:54:13]  RSI: 37.16
+[2025-04-29 15:54:14]  Current price: 1.13823
+[2025-04-29 15:54:14]  RSI: 37.16
+[2025-04-29 15:54:15]  Current price: 1.13826
+[2025-04-29 15:54:15]  RSI: 44.52
+[2025-04-29 15:54:16]  Current price: 1.13826
+[2025-04-29 15:54:16]  RSI: 44.52
+[2025-04-29 15:54:17]  Current price: 1.13826
+[2025-04-29 15:54:17]  RSI: 44.52
+[2025-04-29 15:54:18]  Current price: 1.1383
+[2025-04-29 15:54:18]  RSI: 53.56
+[2025-04-29 15:54:19]  Current price: 1.13827
+[2025-04-29 15:54:19]  RSI: 47.33
+[2025-04-29 15:54:20]  Current price: 1.13826
+[2025-04-29 15:54:20]  RSI: 45.43
+[2025-04-29 15:54:21]  Current price: 1.13824
+[2025-04-29 15:54:21]  RSI: 41.82
+[2025-04-29 15:54:22]  Current price: 1.13823
+[2025-04-29 15:54:22]  RSI: 40.10
+[2025-04-29 15:54:23]  Current price: 1.13822
+[2025-04-29 15:54:23]  RSI: 38.41
+[2025-04-29 15:54:24]  Current price: 1.13826
+[2025-04-29 15:54:24]  RSI: 47.91
+[2025-04-29 15:54:25]  Current price: 1.13826
+[2025-04-29 15:54:25]  RSI: 47.91
+[2025-04-29 15:54:26]  Current price: 1.13826
+[2025-04-29 15:54:26]  RSI: 47.91
+[2025-04-29 15:54:27]  Current price: 1.13826
+[2025-04-29 15:54:27]  RSI: 47.91
+[2025-04-29 15:54:28]  Current price: 1.13826
+[2025-04-29 15:54:28]  RSI: 47.91
+[2025-04-29 15:54:29]  Current price: 1.13824
+[2025-04-29 15:54:29]  RSI: 43.09
+[2025-04-29 15:54:30]  Current price: 1.13824
+[2025-04-29 15:54:30]  RSI: 43.09
+[2025-04-29 15:54:31]  Current price: 1.13824
+[2025-04-29 15:54:31]  RSI: 43.09
+[2025-04-29 15:54:32]  Current price: 1.13823
+[2025-04-29 15:54:32]  RSI: 40.55
+[2025-04-29 15:54:33]  Current price: 1.13822
+[2025-04-29 15:54:33]  RSI: 38.12
+[2025-04-29 15:54:34]  Current price: 1.13821
+[2025-04-29 15:54:34]  RSI: 35.82
+[2025-04-29 15:54:35]  Current price: 1.13824
+[2025-04-29 15:54:35]  RSI: 46.31
+[2025-04-29 15:54:36]  Current price: 1.13821
+[2025-04-29 15:54:36]  RSI: 39.38
+[2025-04-29 15:54:37]  Current price: 1.13819
+[2025-04-29 15:54:37]  RSI: 35.56
+[2025-04-29 15:54:38]  Current price: 1.13821
+[2025-04-29 15:54:38]  RSI: 41.65
+[2025-04-29 15:54:39]  Current price: 1.13824
+[2025-04-29 15:54:39]  RSI: 49.39
+[2025-04-29 15:54:40]  Current price: 1.13825
+[2025-04-29 15:54:40]  RSI: 51.69
+[2025-04-29 15:54:41]  Current price: 1.13826
+[2025-04-29 15:54:41]  RSI: 53.94
+[2025-04-29 15:54:42]  Current price: 1.13831
+[2025-04-29 15:54:42]  RSI: 63.19
+[2025-04-29 15:54:43]  Current price: 1.13831
+[2025-04-29 15:54:43]  RSI: 63.19
+[2025-04-29 15:54:44]  Current price: 1.13831
+[2025-04-29 15:54:44]  RSI: 63.19
+[2025-04-29 15:54:45]  Current price: 1.13828
+[2025-04-29 15:54:45]  RSI: 54.93
+[2025-04-29 15:54:46]  Current price: 1.13828
+[2025-04-29 15:54:46]  RSI: 54.93
+[2025-04-29 15:54:47]  Current price: 1.13827
+[2025-04-29 15:54:47]  RSI: 52.28
+[2025-04-29 15:54:48]  Current price: 1.13823
+[2025-04-29 15:54:48]  RSI: 43.31
+[2025-04-29 15:54:49]  Current price: 1.13836
+[2025-04-29 15:54:49]  RSI: 64.59
+[2025-04-29 15:54:50]  Current price: 1.13837
+[2025-04-29 15:54:50]  RSI: 65.66
+[2025-04-29 15:54:51]  Current price: 1.13836
+[2025-04-29 15:54:51]  RSI: 63.59
+[2025-04-29 15:54:52]  Current price: 1.13836
+[2025-04-29 15:54:52]  RSI: 63.59
+[2025-04-29 15:54:53]  Current price: 1.13836
+[2025-04-29 15:54:53]  RSI: 63.59
+[2025-04-29 15:54:54]  Current price: 1.13841
+[2025-04-29 15:54:54]  RSI: 69.57
+[2025-04-29 15:54:55]  Current price: 1.13842
+[2025-04-29 15:54:55]  RSI: 70.61
+[2025-04-29 15:54:55]  Signal detected: SELL — Placing order...
+[2025-04-29 15:54:55]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:54:56]  Current price: 1.13842
+[2025-04-29 15:54:56]  RSI: 70.61
+[2025-04-29 15:54:56]  Signal detected: SELL — Placing order...
+[2025-04-29 15:54:56]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:54:57]  Current price: 1.13837
+[2025-04-29 15:54:57]  RSI: 58.93
+[2025-04-29 15:54:58]  Current price: 1.13841
+[2025-04-29 15:54:58]  RSI: 64.05
+[2025-04-29 15:54:59]  Current price: 1.13842
+[2025-04-29 15:54:59]  RSI: 65.22
+[2025-04-29 15:55:00]  Current price: 1.13834
+[2025-04-29 15:55:00]  RSI: 50.96
+[2025-04-29 15:55:01]  Current price: 1.13833
+[2025-04-29 15:55:01]  RSI: 49.51
+[2025-04-29 15:55:02]  Current price: 1.13833
+[2025-04-29 15:55:02]  RSI: 49.51
+[2025-04-29 15:55:03]  Current price: 1.13833
+[2025-04-29 15:55:03]  RSI: 49.51
+[2025-04-29 15:55:04]  Current price: 1.13824
+[2025-04-29 15:55:04]  RSI: 37.47
+[2025-04-29 15:55:05]  Current price: 1.13822
+[2025-04-29 15:55:05]  RSI: 35.41
+[2025-04-29 15:55:06]  Current price: 1.13824
+[2025-04-29 15:55:06]  RSI: 39.02
+[2025-04-29 15:55:07]  Current price: 1.13826
+[2025-04-29 15:55:07]  RSI: 42.48
+[2025-04-29 15:55:08]  Current price: 1.13821
+[2025-04-29 15:55:08]  RSI: 36.85
+[2025-04-29 15:55:09]  Current price: 1.13821
+[2025-04-29 15:55:09]  RSI: 36.85
+[2025-04-29 15:55:10]  Current price: 1.1382
+[2025-04-29 15:55:10]  RSI: 35.75
+[2025-04-29 15:55:11]  Current price: 1.13817
+[2025-04-29 15:55:11]  RSI: 32.60
+[2025-04-29 15:55:12]  Current price: 1.13816
+[2025-04-29 15:55:12]  RSI: 31.61
+[2025-04-29 15:55:13]  Current price: 1.13817
+[2025-04-29 15:55:13]  RSI: 33.79
+[2025-04-29 15:55:14]  Current price: 1.13814
+[2025-04-29 15:55:14]  RSI: 30.63
+[2025-04-29 15:55:15]  Current price: 1.13813
+[2025-04-29 15:55:15]  RSI: 29.64
+[2025-04-29 15:55:15]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:15]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:16]  Current price: 1.13814
+[2025-04-29 15:55:16]  RSI: 32.01
+[2025-04-29 15:55:17]  Current price: 1.13804
+[2025-04-29 15:55:17]  RSI: 23.47
+[2025-04-29 15:55:17]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:17]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:18]  Current price: 1.13802
+[2025-04-29 15:55:18]  RSI: 22.20
+[2025-04-29 15:55:18]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:19]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:19]  Current price: 1.13801
+[2025-04-29 15:55:19]  RSI: 21.57
+[2025-04-29 15:55:19]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:19]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:20]  Current price: 1.138
+[2025-04-29 15:55:20]  RSI: 20.93
+[2025-04-29 15:55:20]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:20]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:21]  Current price: 1.13798
+[2025-04-29 15:55:21]  RSI: 19.67
+[2025-04-29 15:55:21]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:21]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:22]  Current price: 1.13795
+[2025-04-29 15:55:22]  RSI: 17.93
+[2025-04-29 15:55:22]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:22]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:23]  Current price: 1.13794
+[2025-04-29 15:55:23]  RSI: 17.38
+[2025-04-29 15:55:23]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:23]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:24]  Current price: 1.13796
+[2025-04-29 15:55:24]  RSI: 22.52
+[2025-04-29 15:55:24]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:24]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:25]  Current price: 1.13796
+[2025-04-29 15:55:25]  RSI: 22.52
+[2025-04-29 15:55:25]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:25]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:26]  Current price: 1.13796
+[2025-04-29 15:55:26]  RSI: 22.52
+[2025-04-29 15:55:26]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:26]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:27]  Current price: 1.13794
+[2025-04-29 15:55:27]  RSI: 20.89
+[2025-04-29 15:55:27]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:27]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:28]  Current price: 1.13795
+[2025-04-29 15:55:28]  RSI: 23.85
+[2025-04-29 15:55:28]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:28]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:29]  Current price: 1.13792
+[2025-04-29 15:55:29]  RSI: 21.28
+[2025-04-29 15:55:29]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:30]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:30]  Current price: 1.13795
+[2025-04-29 15:55:30]  RSI: 29.46
+[2025-04-29 15:55:30]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:30]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:31]  Current price: 1.13795
+[2025-04-29 15:55:32]  RSI: 29.46
+[2025-04-29 15:55:32]  Signal detected: BUY — Placing order...
+[2025-04-29 15:55:32]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:32]  Current price: 1.13796
+[2025-04-29 15:55:32]  RSI: 32.19
+[2025-04-29 15:55:33]  Current price: 1.13797
+[2025-04-29 15:55:33]  RSI: 34.90
+[2025-04-29 15:55:34]  Current price: 1.13796
+[2025-04-29 15:55:34]  RSI: 33.46
+[2025-04-29 15:55:35]  Current price: 1.13797
+[2025-04-29 15:55:35]  RSI: 36.29
+[2025-04-29 15:55:36]  Current price: 1.13796
+[2025-04-29 15:55:36]  RSI: 34.70
+[2025-04-29 15:55:37]  Current price: 1.13795
+[2025-04-29 15:55:37]  RSI: 33.14
+[2025-04-29 15:55:38]  Current price: 1.13801
+[2025-04-29 15:55:38]  RSI: 48.21
+[2025-04-29 15:55:39]  Current price: 1.13802
+[2025-04-29 15:55:39]  RSI: 50.22
+[2025-04-29 15:55:40]  Current price: 1.13809
+[2025-04-29 15:55:40]  RSI: 61.51
+[2025-04-29 15:55:41]  Current price: 1.13805
+[2025-04-29 15:55:41]  RSI: 53.98
+[2025-04-29 15:55:42]  Current price: 1.13804
+[2025-04-29 15:55:42]  RSI: 52.25
+[2025-04-29 15:55:43]  Current price: 1.13805
+[2025-04-29 15:55:43]  RSI: 53.84
+[2025-04-29 15:55:44]  Current price: 1.13819
+[2025-04-29 15:55:44]  RSI: 69.24
+[2025-04-29 15:55:45]  Current price: 1.13821
+[2025-04-29 15:55:45]  RSI: 70.75
+[2025-04-29 15:55:45]  Signal detected: SELL — Placing order...
+[2025-04-29 15:55:45]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:46]  Current price: 1.13831
+[2025-04-29 15:55:46]  RSI: 76.84
+[2025-04-29 15:55:46]  Signal detected: SELL — Placing order...
+[2025-04-29 15:55:46]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:55:47]  Current price: 1.13823
+[2025-04-29 15:55:47]  RSI: 65.15
+[2025-04-29 15:55:48]  Current price: 1.13824
+[2025-04-29 15:55:48]  RSI: 65.85
+[2025-04-29 15:55:49]  Current price: 1.13821
+[2025-04-29 15:55:49]  RSI: 61.84
+[2025-04-29 15:55:50]  Current price: 1.13822
+[2025-04-29 15:55:50]  RSI: 62.66
+[2025-04-29 15:55:51]  Current price: 1.13825
+[2025-04-29 15:55:51]  RSI: 65.07
+[2025-04-29 15:55:52]  Current price: 1.13827
+[2025-04-29 15:55:52]  RSI: 66.62
+[2025-04-29 15:55:53]  Current price: 1.13827
+[2025-04-29 15:55:53]  RSI: 66.62
+[2025-04-29 15:55:54]  Current price: 1.13827
+[2025-04-29 15:55:54]  RSI: 66.62
+[2025-04-29 15:55:55]  Current price: 1.13817
+[2025-04-29 15:55:55]  RSI: 52.17
+[2025-04-29 15:55:56]  Current price: 1.13821
+[2025-04-29 15:55:56]  RSI: 56.26
+[2025-04-29 15:55:57]  Current price: 1.1382
+[2025-04-29 15:55:57]  RSI: 54.99
+[2025-04-29 15:55:58]  Current price: 1.13821
+[2025-04-29 15:55:58]  RSI: 56.06
+[2025-04-29 15:55:59]  Current price: 1.13823
+[2025-04-29 15:55:59]  RSI: 58.19
+[2025-04-29 15:56:00]  Current price: 1.13824
+[2025-04-29 15:56:00]  RSI: 59.25
+[2025-04-29 15:56:01]  Current price: 1.13821
+[2025-04-29 15:56:01]  RSI: 54.75
+[2025-04-29 15:56:02]  Current price: 1.13818
+[2025-04-29 15:56:02]  RSI: 50.61
+[2025-04-29 15:56:03]  Current price: 1.13818
+[2025-04-29 15:56:03]  RSI: 50.61
+[2025-04-29 15:56:04]  Current price: 1.1382
+[2025-04-29 15:56:04]  RSI: 53.34
+[2025-04-29 15:56:05]  Current price: 1.1382
+[2025-04-29 15:56:05]  RSI: 53.34
+[2025-04-29 15:56:06]  Current price: 1.13823
+[2025-04-29 15:56:06]  RSI: 57.43
+[2025-04-29 15:56:07]  Current price: 1.13816
+[2025-04-29 15:56:07]  RSI: 47.07
+[2025-04-29 15:56:08]  Current price: 1.13816
+[2025-04-29 15:56:08]  RSI: 47.07
+[2025-04-29 15:56:09]  Current price: 1.13817
+[2025-04-29 15:56:09]  RSI: 48.60
+[2025-04-29 15:56:10]  Current price: 1.13807
+[2025-04-29 15:56:10]  RSI: 37.03
+[2025-04-29 15:56:11]  Current price: 1.13809
+[2025-04-29 15:56:11]  RSI: 40.10
+[2025-04-29 15:56:12]  Current price: 1.13808
+[2025-04-29 15:56:12]  RSI: 39.07
+[2025-04-29 15:56:13]  Current price: 1.13807
+[2025-04-29 15:56:13]  RSI: 38.03
+[2025-04-29 15:56:14]  Current price: 1.13806
+[2025-04-29 15:56:14]  RSI: 36.96
+[2025-04-29 15:56:15]  Current price: 1.13808
+[2025-04-29 15:56:15]  RSI: 40.55
+[2025-04-29 15:56:16]  Current price: 1.1381
+[2025-04-29 15:56:16]  RSI: 43.99
+[2025-04-29 15:56:17]  Current price: 1.1381
+[2025-04-29 15:56:17]  RSI: 43.99
+[2025-04-29 15:56:18]  Current price: 1.13806
+[2025-04-29 15:56:18]  RSI: 38.79
+[2025-04-29 15:56:19]  Current price: 1.13811
+[2025-04-29 15:56:19]  RSI: 47.20
+[2025-04-29 15:56:20]  Current price: 1.13811
+[2025-04-29 15:56:20]  RSI: 47.20
+[2025-04-29 15:56:21]  Current price: 1.13811
+[2025-04-29 15:56:21]  RSI: 47.20
+[2025-04-29 15:56:22]  Current price: 1.13813
+[2025-04-29 15:56:22]  RSI: 50.59
+[2025-04-29 15:56:23]  Current price: 1.13814
+[2025-04-29 15:56:23]  RSI: 52.24
+[2025-04-29 15:56:24]  Current price: 1.13814
+[2025-04-29 15:56:24]  RSI: 52.24
+[2025-04-29 15:56:25]  Current price: 1.13813
+[2025-04-29 15:56:25]  RSI: 50.29
+[2025-04-29 15:56:26]  Current price: 1.13812
+[2025-04-29 15:56:26]  RSI: 48.35
+[2025-04-29 15:56:27]  Current price: 1.13813
+[2025-04-29 15:56:27]  RSI: 50.41
+[2025-04-29 15:56:28]  Current price: 1.13816
+[2025-04-29 15:56:28]  RSI: 56.08
+[2025-04-29 15:56:29]  Current price: 1.13816
+[2025-04-29 15:56:29]  RSI: 56.08
+[2025-04-29 15:56:30]  Current price: 1.13818
+[2025-04-29 15:56:30]  RSI: 59.65
+[2025-04-29 15:56:31]  Current price: 1.13812
+[2025-04-29 15:56:31]  RSI: 47.25
+[2025-04-29 15:56:32]  Current price: 1.13814
+[2025-04-29 15:56:32]  RSI: 50.91
+[2025-04-29 15:56:33]  Current price: 1.13816
+[2025-04-29 15:56:33]  RSI: 54.33
+[2025-04-29 15:56:34]  Current price: 1.13815
+[2025-04-29 15:56:34]  RSI: 52.37
+[2025-04-29 15:56:35]  Current price: 1.13817
+[2025-04-29 15:56:35]  RSI: 55.80
+[2025-04-29 15:56:36]  Current price: 1.13817
+[2025-04-29 15:56:36]  RSI: 55.80
+[2025-04-29 15:56:37]  Current price: 1.13815
+[2025-04-29 15:56:37]  RSI: 51.49
+[2025-04-29 15:56:38]  Current price: 1.13822
+[2025-04-29 15:56:38]  RSI: 62.43
+[2025-04-29 15:56:39]  Current price: 1.13827
+[2025-04-29 15:56:39]  RSI: 67.98
+[2025-04-29 15:56:40]  Current price: 1.13831
+[2025-04-29 15:56:40]  RSI: 71.60
+[2025-04-29 15:56:40]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:40]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:41]  Current price: 1.13833
+[2025-04-29 15:56:41]  RSI: 73.23
+[2025-04-29 15:56:41]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:41]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:42]  Current price: 1.13831
+[2025-04-29 15:56:42]  RSI: 68.97
+[2025-04-29 15:56:43]  Current price: 1.13832
+[2025-04-29 15:56:43]  RSI: 69.91
+[2025-04-29 15:56:44]  Current price: 1.13836
+[2025-04-29 15:56:44]  RSI: 73.39
+[2025-04-29 15:56:44]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:44]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:45]  Current price: 1.13841
+[2025-04-29 15:56:45]  RSI: 76.98
+[2025-04-29 15:56:45]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:45]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:46]  Current price: 1.13841
+[2025-04-29 15:56:46]  RSI: 76.98
+[2025-04-29 15:56:46]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:46]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:47]  Current price: 1.13841
+[2025-04-29 15:56:47]  RSI: 76.98
+[2025-04-29 15:56:47]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:47]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:48]  Current price: 1.13846
+[2025-04-29 15:56:48]  RSI: 80.29
+[2025-04-29 15:56:48]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:48]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:49]  Current price: 1.13845
+[2025-04-29 15:56:49]  RSI: 77.88
+[2025-04-29 15:56:49]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:49]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:50]  Current price: 1.13846
+[2025-04-29 15:56:50]  RSI: 78.57
+[2025-04-29 15:56:50]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:51]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:51]  Current price: 1.13845
+[2025-04-29 15:56:51]  RSI: 76.00
+[2025-04-29 15:56:51]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:51]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:52]  Current price: 1.13846
+[2025-04-29 15:56:52]  RSI: 76.82
+[2025-04-29 15:56:52]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:52]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:53]  Current price: 1.13848
+[2025-04-29 15:56:53]  RSI: 78.40
+[2025-04-29 15:56:53]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:53]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:54]  Current price: 1.13847
+[2025-04-29 15:56:54]  RSI: 75.62
+[2025-04-29 15:56:54]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:54]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:55]  Current price: 1.13847
+[2025-04-29 15:56:55]  RSI: 75.62
+[2025-04-29 15:56:55]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:55]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:56]  Current price: 1.13849
+[2025-04-29 15:56:56]  RSI: 77.47
+[2025-04-29 15:56:56]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:56]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:57]  Current price: 1.1385
+[2025-04-29 15:56:57]  RSI: 78.36
+[2025-04-29 15:56:57]  Signal detected: SELL — Placing order...
+[2025-04-29 15:56:57]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:56:58]  Current price: 1.13845
+[2025-04-29 15:56:58]  RSI: 64.67
+[2025-04-29 15:56:59]  Current price: 1.13846
+[2025-04-29 15:56:59]  RSI: 65.95
+[2025-04-29 15:57:00]  Current price: 1.13846
+[2025-04-29 15:57:00]  RSI: 65.95
+[2025-04-29 15:57:01]  Current price: 1.13849
+[2025-04-29 15:57:01]  RSI: 69.77
+[2025-04-29 15:57:02]  Current price: 1.13848
+[2025-04-29 15:57:02]  RSI: 67.07
+[2025-04-29 15:57:03]  Current price: 1.13847
+[2025-04-29 15:57:03]  RSI: 64.39
+[2025-04-29 15:57:04]  Current price: 1.13849
+[2025-04-29 15:57:04]  RSI: 67.21
+[2025-04-29 15:57:05]  Current price: 1.13854
+[2025-04-29 15:57:05]  RSI: 72.98
+[2025-04-29 15:57:05]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:05]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:06]  Current price: 1.13858
+[2025-04-29 15:57:06]  RSI: 76.53
+[2025-04-29 15:57:06]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:06]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:07]  Current price: 1.13858
+[2025-04-29 15:57:07]  RSI: 76.53
+[2025-04-29 15:57:07]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:07]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:08]  Current price: 1.1386
+[2025-04-29 15:57:08]  RSI: 78.20
+[2025-04-29 15:57:08]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:08]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:09]  Current price: 1.13858
+[2025-04-29 15:57:09]  RSI: 72.65
+[2025-04-29 15:57:09]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:09]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:10]  Current price: 1.13858
+[2025-04-29 15:57:10]  RSI: 72.65
+[2025-04-29 15:57:10]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:11]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:11]  Current price: 1.13858
+[2025-04-29 15:57:11]  RSI: 72.65
+[2025-04-29 15:57:11]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:11]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:12]  Current price: 1.1386
+[2025-04-29 15:57:12]  RSI: 74.88
+[2025-04-29 15:57:12]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:12]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:13]  Current price: 1.13864
+[2025-04-29 15:57:13]  RSI: 78.62
+[2025-04-29 15:57:13]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:13]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:14]  Current price: 1.13869
+[2025-04-29 15:57:14]  RSI: 82.20
+[2025-04-29 15:57:14]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:14]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:15]  Current price: 1.13872
+[2025-04-29 15:57:15]  RSI: 83.93
+[2025-04-29 15:57:15]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:15]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:16]  Current price: 1.13871
+[2025-04-29 15:57:16]  RSI: 81.09
+[2025-04-29 15:57:16]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:16]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:17]  Current price: 1.13873
+[2025-04-29 15:57:17]  RSI: 82.38
+[2025-04-29 15:57:17]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:17]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:18]  Current price: 1.13871
+[2025-04-29 15:57:18]  RSI: 76.77
+[2025-04-29 15:57:18]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:18]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:19]  Current price: 1.13873
+[2025-04-29 15:57:19]  RSI: 78.35
+[2025-04-29 15:57:19]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:19]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:20]  Current price: 1.13875
+[2025-04-29 15:57:20]  RSI: 79.84
+[2025-04-29 15:57:20]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:20]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:21]  Current price: 1.13874
+[2025-04-29 15:57:21]  RSI: 77.00
+[2025-04-29 15:57:21]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:21]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:22]  Current price: 1.13873
+[2025-04-29 15:57:22]  RSI: 74.15
+[2025-04-29 15:57:22]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:22]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:23]  Current price: 1.13873
+[2025-04-29 15:57:23]  RSI: 74.15
+[2025-04-29 15:57:23]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:24]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:24]  Current price: 1.13875
+[2025-04-29 15:57:24]  RSI: 76.19
+[2025-04-29 15:57:24]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:24]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:25]  Current price: 1.13876
+[2025-04-29 15:57:25]  RSI: 77.16
+[2025-04-29 15:57:25]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:25]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:26]  Current price: 1.13877
+[2025-04-29 15:57:26]  RSI: 78.12
+[2025-04-29 15:57:26]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:26]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:27]  Current price: 1.13875
+[2025-04-29 15:57:27]  RSI: 71.63
+[2025-04-29 15:57:27]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:27]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:28]  Current price: 1.13875
+[2025-04-29 15:57:28]  RSI: 71.63
+[2025-04-29 15:57:28]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:29]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:29]  Current price: 1.13877
+[2025-04-29 15:57:29]  RSI: 74.13
+[2025-04-29 15:57:29]  Signal detected: SELL — Placing order...
+[2025-04-29 15:57:29]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:30]  Current price: 1.13875
+[2025-04-29 15:57:30]  RSI: 67.72
+[2025-04-29 15:57:31]  Current price: 1.13871
+[2025-04-29 15:57:31]  RSI: 57.09
+[2025-04-29 15:57:32]  Current price: 1.13868
+[2025-04-29 15:57:32]  RSI: 50.67
+[2025-04-29 15:57:33]  Current price: 1.13869
+[2025-04-29 15:57:33]  RSI: 52.59
+[2025-04-29 15:57:34]  Current price: 1.13869
+[2025-04-29 15:57:34]  RSI: 52.59
+[2025-04-29 15:57:35]  Current price: 1.1387
+[2025-04-29 15:57:35]  RSI: 54.63
+[2025-04-29 15:57:36]  Current price: 1.13863
+[2025-04-29 15:57:36]  RSI: 41.24
+[2025-04-29 15:57:37]  Current price: 1.13861
+[2025-04-29 15:57:37]  RSI: 38.34
+[2025-04-29 15:57:38]  Current price: 1.13861
+[2025-04-29 15:57:38]  RSI: 38.34
+[2025-04-29 15:57:39]  Current price: 1.13854
+[2025-04-29 15:57:39]  RSI: 29.85
+[2025-04-29 15:57:39]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:39]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:40]  Current price: 1.13841
+[2025-04-29 15:57:40]  RSI: 20.68
+[2025-04-29 15:57:40]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:40]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:41]  Current price: 1.13834
+[2025-04-29 15:57:41]  RSI: 17.56
+[2025-04-29 15:57:41]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:41]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:42]  Current price: 1.13831
+[2025-04-29 15:57:42]  RSI: 16.41
+[2025-04-29 15:57:42]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:42]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:43]  Current price: 1.1383
+[2025-04-29 15:57:43]  RSI: 16.03
+[2025-04-29 15:57:43]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:43]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:44]  Current price: 1.13829
+[2025-04-29 15:57:44]  RSI: 15.65
+[2025-04-29 15:57:44]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:45]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:45]  Current price: 1.13824
+[2025-04-29 15:57:45]  RSI: 13.86
+[2025-04-29 15:57:45]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:45]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:46]  Current price: 1.13822
+[2025-04-29 15:57:46]  RSI: 13.20
+[2025-04-29 15:57:46]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:46]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:47]  Current price: 1.13824
+[2025-04-29 15:57:47]  RSI: 17.39
+[2025-04-29 15:57:47]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:47]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:48]  Current price: 1.13822
+[2025-04-29 15:57:48]  RSI: 16.53
+[2025-04-29 15:57:48]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:48]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:49]  Current price: 1.13822
+[2025-04-29 15:57:49]  RSI: 16.53
+[2025-04-29 15:57:49]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:49]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:50]  Current price: 1.13823
+[2025-04-29 15:57:50]  RSI: 18.85
+[2025-04-29 15:57:50]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:51]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:51]  Current price: 1.13824
+[2025-04-29 15:57:51]  RSI: 21.22
+[2025-04-29 15:57:51]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:51]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:52]  Current price: 1.13827
+[2025-04-29 15:57:52]  RSI: 27.99
+[2025-04-29 15:57:52]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:52]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:53]  Current price: 1.13829
+[2025-04-29 15:57:53]  RSI: 32.17
+[2025-04-29 15:57:54]  Current price: 1.13828
+[2025-04-29 15:57:54]  RSI: 31.20
+[2025-04-29 15:57:55]  Current price: 1.13827
+[2025-04-29 15:57:55]  RSI: 30.21
+[2025-04-29 15:57:56]  Current price: 1.13828
+[2025-04-29 15:57:56]  RSI: 32.51
+[2025-04-29 15:57:57]  Current price: 1.13824
+[2025-04-29 15:57:57]  RSI: 28.47
+[2025-04-29 15:57:57]  Signal detected: BUY — Placing order...
+[2025-04-29 15:57:58]  Error received: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 15:57:58]  Current price: 1.13827
+[2025-04-29 15:57:58]  RSI: 34.99
+[2025-04-29 15:57:59]  Current price: 1.13827
+[2025-04-29 15:57:59]  RSI: 34.99
+[2025-04-29 15:58:00]  Current price: 1.13828
+[2025-04-29 15:58:00]  RSI: 37.21
+[2025-04-29 15:58:01]  Current price: 1.13828
+[2025-04-29 15:58:01]  RSI: 37.21
+[2025-04-29 15:58:02]  Current price: 1.13827
+[2025-04-29 15:58:02]  RSI: 35.79
+[2025-04-29 15:58:03]  Current price: 1.13828
+[2025-04-29 15:58:03]  RSI: 38.32
+[2025-04-29 15:58:04]  Current price: 1.1383
+[2025-04-29 15:58:04]  RSI: 43.14
+[2025-04-29 15:58:05]  Current price: 1.1383
+[2025-04-29 15:58:05]  RSI: 43.14
+[2025-04-29 15:58:06]  Current price: 1.1383
+[2025-04-29 15:58:06]  RSI: 43.14
+[2025-04-29 15:58:07]  Current price: 1.13829
+[2025-04-29 15:58:07]  RSI: 41.13
+[2025-04-29 15:58:08]  Current price: 1.13827
+[2025-04-29 15:58:08]  RSI: 37.39
+[2025-04-29 15:58:09]  Current price: 1.13828
+[2025-04-29 15:58:09]  RSI: 40.31
+[2025-04-29 15:58:10]  Current price: 1.13828
+[2025-04-29 15:58:10]  RSI: 40.31
+[2025-04-29 15:58:11]  Current price: 1.1383
+[2025-04-29 15:58:11]  RSI: 46.15
+[2025-04-29 15:58:12]  Current price: 1.1383
+[2025-04-29 15:58:12]  RSI: 46.15
+[2025-04-29 15:58:13]  Current price: 1.13829
+[2025-04-29 15:58:13]  RSI: 43.67
+[2025-04-29 15:58:14]  Current price: 1.1383
+[2025-04-29 15:58:14]  RSI: 46.75
+[2025-04-29 15:58:15]  Current price: 1.13834
+[2025-04-29 15:58:15]  RSI: 56.89
+[2025-04-29 15:58:16]  Current price: 1.13831
+[2025-04-29 15:58:16]  RSI: 49.31
+[2025-04-29 15:58:17]  Current price: 1.13834
+[2025-04-29 15:58:17]  RSI: 55.67
+[2025-04-29 15:58:18]  Current price: 1.13842
+[2025-04-29 15:58:18]  RSI: 67.42
+[2025-04-29 15:58:19]  Current price: 1.13841
+[2025-04-29 15:58:19]  RSI: 65.10
+[2025-04-29 15:58:20]  Current price: 1.13839
+[2025-04-29 15:58:20]  RSI: 60.60
+[2025-04-29 15:58:21]  Current price: 1.13842
+[2025-04-29 15:58:21]  RSI: 64.56
+[2025-04-29 15:58:22]  Current price: 1.13844
+[2025-04-29 15:58:22]  RSI: 66.94
+[2025-04-29 15:58:23]  Current price: 1.13842
+[2025-04-29 15:58:23]  RSI: 62.42
+[2025-04-29 15:58:24]  Current price: 1.13842
+[2025-04-29 15:58:24]  RSI: 62.42
+[2025-04-29 15:58:25]  Current price: 1.13841
+[2025-04-29 15:58:25]  RSI: 60.07
+[2025-04-29 15:58:26]  Current price: 1.13842
+[2025-04-29 15:58:26]  RSI: 61.63
+[2025-04-29 15:58:27]  Current price: 1.13842
+[2025-04-29 15:58:27]  RSI: 61.63
+[2025-04-29 15:58:28]  Current price: 1.13841
+[2025-04-29 15:58:28]  RSI: 58.96
+[2025-04-29 15:58:29]  Current price: 1.13842
+[2025-04-29 15:58:29]  RSI: 60.79
+[2025-04-29 15:58:30]  Current price: 1.13837
+[2025-04-29 15:58:30]  RSI: 49.03
+[2025-04-29 15:58:31]  Current price: 1.13836
+[2025-04-29 15:58:31]  RSI: 47.07
+[2025-04-29 15:58:32]  Current price: 1.13838
+[2025-04-29 15:58:32]  RSI: 51.27
+[2025-04-29 15:58:33]  Current price: 1.13837
+[2025-04-29 15:58:33]  RSI: 49.17
+[2025-04-29 15:58:34]  Current price: 1.13839
+[2025-04-29 15:58:34]  RSI: 53.29
+[2025-04-29 15:58:35]  Current price: 1.13836
+[2025-04-29 15:58:35]  RSI: 47.12
+[2025-04-29 15:58:36]  Current price: 1.13837
+[2025-04-29 15:58:36]  RSI: 49.23
+[2025-04-29 15:58:37]  Current price: 1.13834
+[2025-04-29 15:58:37]  RSI: 43.61
+[2025-04-29 15:58:38]  Current price: 1.13835
+[2025-04-29 15:58:38]  RSI: 45.83
+[2025-04-29 15:58:39]  Current price: 1.13836
+[2025-04-29 15:58:39]  RSI: 48.03
+[2025-04-29 15:58:40]  Current price: 1.13836
+[2025-04-29 15:58:40]  RSI: 48.03
+[2025-04-29 15:58:41]  Current price: 1.13837
+[2025-04-29 15:58:41]  RSI: 50.37
+[2025-04-29 15:58:42]  Current price: 1.13836
+[2025-04-29 15:58:42]  RSI: 48.04
+[2025-04-29 15:58:43]  Current price: 1.13835
+[2025-04-29 15:58:43]  RSI: 45.76
+[2025-04-29 15:58:44]  Current price: 1.13833
+[2025-04-29 15:58:44]  RSI: 41.52
+[2025-04-29 15:58:45]  Current price: 1.13833
+[2025-04-29 15:58:45]  RSI: 41.52
+[2025-04-29 15:58:46]  Current price: 1.13832
+[2025-04-29 15:58:46]  RSI: 39.40
+[2025-04-29 15:58:47]  Current price: 1.13831
+[2025-04-29 15:58:47]  RSI: 37.35
+[2025-04-29 15:58:48]  Current price: 1.13831
+[2025-04-29 15:58:48]  RSI: 37.35
+[2025-04-29 15:58:49]  Current price: 1.1383
+[2025-04-29 15:58:49]  RSI: 35.22
+[2025-04-29 15:58:50]  Current price: 1.13829
+[2025-04-29 15:58:50]  RSI: 33.18
+[2025-04-29 15:58:51]  Current price: 1.13827
+[2025-04-29 15:58:51]  RSI: 29.51
+[2025-04-29 15:58:51]  Signal detected: BUY — Placing order...
+[2025-04-29 15:58:51]  Error: 
+[2025-04-29 15:58:52]  Connection closed
+[2025-04-29 16:12:26]  Authentication request sent.
+[2025-04-29 16:12:27]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:12:27]  Contract stake limits updated: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-04-29 16:12:27]  Current price: 1.13976
+[2025-04-29 16:12:28]  Current price: 1.13974
+[2025-04-29 16:12:29]  Current price: 1.13969
+[2025-04-29 16:12:31]  Current price: 1.1397
+[2025-04-29 16:12:31]  Current price: 1.1397
+[2025-04-29 16:12:32]  Current price: 1.1397
+[2025-04-29 16:12:33]  Current price: 1.13966
+[2025-04-29 16:12:34]  Current price: 1.13966
+[2025-04-29 16:12:35]  Current price: 1.13965
+[2025-04-29 16:12:36]  Current price: 1.13966
+[2025-04-29 16:12:37]  Current price: 1.13966
+[2025-04-29 16:12:38]  Current price: 1.13966
+[2025-04-29 16:12:39]  Current price: 1.13966
+[2025-04-29 16:12:40]  Current price: 1.13966
+[2025-04-29 16:12:40]  RSI: 16.65
+[2025-04-29 16:12:40]  Signal detected: BUY — Placing order with amount: 1.0
+[2025-04-29 16:12:41]  Error: Contract's stake amount is more than the maximum purchase price.
+[2025-04-29 16:12:41]  Connection closed
+[2025-04-29 16:13:15]  Authentication request sent.
+[2025-04-29 16:13:15]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:13:15]  Contract stake limits updated: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-04-29 16:13:16]  Current price: 1.13941
+[2025-04-29 16:13:17]  Current price: 1.13946
+[2025-04-29 16:13:18]  Current price: 1.13946
+[2025-04-29 16:13:19]  Current price: 1.13946
+[2025-04-29 16:13:20]  Current price: 1.13941
+[2025-04-29 16:13:21]  Current price: 1.13941
+[2025-04-29 16:13:22]  Current price: 1.1394
+[2025-04-29 16:13:23]  Current price: 1.13948
+[2025-04-29 16:13:24]  Current price: 1.1395
+[2025-04-29 16:13:25]  Current price: 1.13949
+[2025-04-29 16:13:26]  Current price: 1.13948
+[2025-04-29 16:13:27]  Current price: 1.13948
+[2025-04-29 16:13:28]  Current price: 1.13949
+[2025-04-29 16:13:29]  Current price: 1.13949
+[2025-04-29 16:13:29]  RSI: 66.86
+[2025-04-29 16:13:30]  Current price: 1.1395
+[2025-04-29 16:13:30]  RSI: 69.19
+[2025-04-29 16:13:31]  Current price: 1.13951
+[2025-04-29 16:13:31]  RSI: 71.37
+[2025-04-29 16:13:31]  Signal detected: SELL — Placing order with amount: 1.0
+[2025-04-29 16:13:32]  Error: Trading is not offered for this duration.
+[2025-04-29 16:13:32]  Connection closed
+[2025-04-29 16:14:15]  Authentication request sent.
+[2025-04-29 16:14:16]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:14:16]  Contract stake limits updated: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-04-29 16:14:17]  Current price: 1.13971
+[2025-04-29 16:14:18]  Current price: 1.13971
+[2025-04-29 16:14:19]  Current price: 1.13971
+[2025-04-29 16:14:20]  Current price: 1.13973
+[2025-04-29 16:14:21]  Current price: 1.13976
+[2025-04-29 16:14:22]  Current price: 1.13977
+[2025-04-29 16:14:23]  Current price: 1.13976
+[2025-04-29 16:14:24]  Current price: 1.13971
+[2025-04-29 16:14:25]  Current price: 1.13971
+[2025-04-29 16:14:26]  Current price: 1.13971
+[2025-04-29 16:14:27]  Current price: 1.13966
+[2025-04-29 16:14:28]  Current price: 1.13966
+[2025-04-29 16:14:29]  Current price: 1.13966
+[2025-04-29 16:14:30]  Current price: 1.13967
+[2025-04-29 16:14:30]  RSI: 34.14
+[2025-04-29 16:14:31]  Current price: 1.13966
+[2025-04-29 16:14:31]  RSI: 31.30
+[2025-04-29 16:14:32]  Current price: 1.13965
+[2025-04-29 16:14:32]  RSI: 28.72
+[2025-04-29 16:14:32]  Signal detected: BUY — Placing order with amount: 1.0
+[2025-04-29 16:14:32]  Error: Trading is not offered for this duration.
+[2025-04-29 16:14:33]  Connection closed
+[2025-04-29 16:17:56]  Authentication request sent.
+[2025-04-29 16:17:57]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:17:57]  Error: 'available_durations'
+[2025-04-29 16:17:57]  Current price: 1.13951
+[2025-04-29 16:17:58]  Current price: 1.13949
+[2025-04-29 16:17:59]  Current price: 1.13949
+[2025-04-29 16:18:00]  Current price: 1.13949
+[2025-04-29 16:18:01]  Current price: 1.13949
+[2025-04-29 16:18:02]  Current price: 1.1395
+[2025-04-29 16:18:03]  Current price: 1.13951
+[2025-04-29 16:18:04]  Current price: 1.1395
+[2025-04-29 16:18:05]  Current price: 1.1395
+[2025-04-29 16:18:06]  Current price: 1.13951
+[2025-04-29 16:18:07]  Current price: 1.13948
+[2025-04-29 16:18:08]  Current price: 1.13951
+[2025-04-29 16:18:09]  Current price: 1.13954
+[2025-04-29 16:18:10]  Current price: 1.13954
+[2025-04-29 16:18:10]  RSI: 65.27
+[2025-04-29 16:18:11]  Current price: 1.13954
+[2025-04-29 16:18:11]  RSI: 65.27
+[2025-04-29 16:18:12]  Current price: 1.13954
+[2025-04-29 16:18:12]  RSI: 65.27
+[2025-04-29 16:18:13]  Current price: 1.13954
+[2025-04-29 16:18:13]  RSI: 65.27
+[2025-04-29 16:18:14]  Current price: 1.13956
+[2025-04-29 16:18:14]  RSI: 72.03
+[2025-04-29 16:18:14]  Signal detected: SELL — Placing order with amount: 1.0
+[2025-04-29 16:18:14]  Error: Trading is not offered for this duration.
+[2025-04-29 16:18:15]  Connection closed
+[2025-04-29 16:19:27]  Authentication request sent.
+[2025-04-29 16:19:28]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:19:28]  Received contracts_for data
+[2025-04-29 16:19:28]  Error: 'available_durations'
+[2025-04-29 16:19:29]  Current price: 1.13949
+[2025-04-29 16:19:30]  Current price: 1.13949
+[2025-04-29 16:19:31]  Current price: 1.13948
+[2025-04-29 16:19:32]  Current price: 1.13948
+[2025-04-29 16:19:33]  Current price: 1.13948
+[2025-04-29 16:19:34]  Current price: 1.13948
+[2025-04-29 16:19:35]  Current price: 1.13947
+[2025-04-29 16:19:36]  Error: 
+[2025-04-29 16:19:36]  Connection closed
+[2025-04-29 16:20:30]  Authentication request sent.
+[2025-04-29 16:20:30]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:20:31]  Received contracts_for data
+[2025-04-29 16:20:31]  Error: 'available_durations'
+[2025-04-29 16:20:31]  Current price: 1.13949
+[2025-04-29 16:20:32]  Current price: 1.13948
+[2025-04-29 16:20:33]  Current price: 1.13949
+[2025-04-29 16:20:34]  Current price: 1.13949
+[2025-04-29 16:20:35]  Current price: 1.13949
+[2025-04-29 16:20:36]  Current price: 1.13948
+[2025-04-29 16:20:37]  Current price: 1.1395
+[2025-04-29 16:20:38]  Current price: 1.1395
+[2025-04-29 16:20:39]  Current price: 1.13945
+[2025-04-29 16:20:40]  Current price: 1.13945
+[2025-04-29 16:20:41]  Current price: 1.13944
+[2025-04-29 16:20:42]  Current price: 1.13944
+[2025-04-29 16:20:43]  Current price: 1.13943
+[2025-04-29 16:20:44]  Current price: 1.1395
+[2025-04-29 16:20:44]  RSI: 58.42
+[2025-04-29 16:20:45]  Current price: 1.1395
+[2025-04-29 16:20:45]  RSI: 58.42
+[2025-04-29 16:20:46]  Current price: 1.13949
+[2025-04-29 16:20:46]  RSI: 54.17
+[2025-04-29 16:20:47]  Current price: 1.13949
+[2025-04-29 16:20:47]  RSI: 54.17
+[2025-04-29 16:20:48]  Current price: 1.1395
+[2025-04-29 16:20:48]  RSI: 57.74
+[2025-04-29 16:20:49]  Current price: 1.1395
+[2025-04-29 16:20:49]  RSI: 57.74
+[2025-04-29 16:20:50]  Current price: 1.1395
+[2025-04-29 16:20:50]  RSI: 57.74
+[2025-04-29 16:20:51]  Current price: 1.13966
+[2025-04-29 16:20:51]  RSI: 83.46
+[2025-04-29 16:20:51]  Signal detected: SELL — Placing order with amount: 1.0
+[2025-04-29 16:20:51]  Error: Trading is not offered for this duration.
+[2025-04-29 16:20:51]  Connection closed
+[2025-04-29 16:29:47]  Authentication request sent.
+[2025-04-29 16:29:48]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:29:48]  Received contracts_for data
+[2025-04-29 16:29:48]  CALL duration: 1d - 365d, expiry: daily
+[2025-04-29 16:29:48]  PUT duration: 1d - 365d, expiry: daily
+[2025-04-29 16:29:48]  CALL duration: 1d - 365d, expiry: daily
+[2025-04-29 16:29:48]  PUT duration: 1d - 365d, expiry: daily
+[2025-04-29 16:29:48]  CALL duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:29:48]  PUT duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:29:48]  CALL duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:29:48]  PUT duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:29:48]  Contract stake limits updated: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-04-29 16:29:49]  Current price: 1.13998
+[2025-04-29 16:29:50]  Current price: 1.13998
+[2025-04-29 16:29:51]  Current price: 1.14
+[2025-04-29 16:29:52]  Current price: 1.14001
+[2025-04-29 16:29:53]  Current price: 1.13998
+[2025-04-29 16:29:54]  Current price: 1.14
+[2025-04-29 16:29:55]  Current price: 1.14
+[2025-04-29 16:29:56]  Current price: 1.14
+[2025-04-29 16:29:57]  Current price: 1.14
+[2025-04-29 16:29:58]  Current price: 1.14
+[2025-04-29 16:29:59]  Current price: 1.13999
+[2025-04-29 16:30:00]  Current price: 1.13998
+[2025-04-29 16:30:01]  Current price: 1.13995
+[2025-04-29 16:30:02]  Current price: 1.13994
+[2025-04-29 16:30:02]  RSI: 26.09
+[2025-04-29 16:30:02]  Signal detected: BUY — Placing order with amount: 1.0
+[2025-04-29 16:30:03]  Error: Trading is not offered for this duration.
+[2025-04-29 16:30:03]  Connection closed
+[2025-04-29 16:34:02]  Authentication request sent.
+[2025-04-29 16:34:02]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:34:03]  Received contracts_for data
+[2025-04-29 16:34:03]  CALL duration: 1d - 365d, expiry: daily
+[2025-04-29 16:34:03]  PUT duration: 1d - 365d, expiry: daily
+[2025-04-29 16:34:03]  CALL duration: 1d - 365d, expiry: daily
+[2025-04-29 16:34:03]  PUT duration: 1d - 365d, expiry: daily
+[2025-04-29 16:34:03]  CALL duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:34:03]  PUT duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:34:03]  CALL duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:34:03]  PUT duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:34:03]  Contract stake limits updated: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-04-29 16:34:03]  Current price: 1.14014
+[2025-04-29 16:34:04]  Current price: 1.14015
+[2025-04-29 16:34:05]  Current price: 1.14015
+[2025-04-29 16:34:06]  Current price: 1.14014
+[2025-04-29 16:34:07]  Current price: 1.14014
+[2025-04-29 16:34:08]  Current price: 1.14014
+[2025-04-29 16:34:09]  Current price: 1.14007
+[2025-04-29 16:34:10]  Current price: 1.14007
+[2025-04-29 16:34:11]  Current price: 1.14005
+[2025-04-29 16:34:12]  Current price: 1.14005
+[2025-04-29 16:34:13]  Current price: 1.14006
+[2025-04-29 16:34:14]  Current price: 1.14008
+[2025-04-29 16:34:15]  Current price: 1.14008
+[2025-04-29 16:34:16]  Current price: 1.14009
+[2025-04-29 16:34:16]  RSI: 39.52
+[2025-04-29 16:34:17]  Current price: 1.14007
+[2025-04-29 16:34:17]  RSI: 32.49
+[2025-04-29 16:34:18]  Current price: 1.14006
+[2025-04-29 16:34:18]  RSI: 29.65
+[2025-04-29 16:34:18]  Signal detected: BUY — Placing order with amount: 1.0
+[2025-04-29 16:34:18]  Error: Trading is not offered for this duration.
+[2025-04-29 16:34:19]  Connection closed
+[2025-04-29 16:40:35]  Authentication request sent.
+[2025-04-29 16:40:36]  Authorization successful. Subscribing to ticks and fetching contract limits...
+[2025-04-29 16:40:36]  Received contracts_for data
+[2025-04-29 16:40:36]  CALL duration: 1d - 365d, expiry: daily
+[2025-04-29 16:40:36]  PUT duration: 1d - 365d, expiry: daily
+[2025-04-29 16:40:36]  CALL duration: 1d - 365d, expiry: daily
+[2025-04-29 16:40:36]  PUT duration: 1d - 365d, expiry: daily
+[2025-04-29 16:40:36]  CALL duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:40:36]  PUT duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:40:36]  CALL duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:40:36]  PUT duration: 15m - 1d, expiry: intraday
+[2025-04-29 16:40:36]  Contract stake limits updated: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-04-29 16:40:37]  Current price: 1.1399
+[2025-04-29 16:40:38]  Current price: 1.13991
+[2025-04-29 16:40:39]  Current price: 1.13991
+[2025-04-29 16:40:40]  Current price: 1.1399
+[2025-04-29 16:40:41]  Current price: 1.1399
+[2025-04-29 16:40:42]  Current price: 1.1399
+[2025-04-29 16:40:43]  Current price: 1.1399
+[2025-04-29 16:40:44]  Current price: 1.1399
+[2025-04-29 16:40:45]  Current price: 1.1399
+[2025-04-29 16:40:46]  Current price: 1.1399
+[2025-04-29 16:40:47]  Current price: 1.1399
+[2025-04-29 16:40:48]  Current price: 1.1399
+[2025-04-29 16:40:49]  Current price: 1.1399
+[2025-04-29 16:40:50]  Current price: 1.13992
+[2025-04-29 16:40:50]  RSI: 83.49
+[2025-04-29 16:40:50]  Signal detected: SELL — Placing order with amount: 1.0
+[2025-04-29 16:40:51]  Current price: 1.13991
+[2025-04-29 16:40:51]  RSI: 60.81
+[2025-04-29 16:40:51]  Trade opened! Contract ID: 280071355328
+[2025-04-29 16:40:52]  Current price: 1.13991
+[2025-04-29 16:40:52]  RSI: 60.81
+[2025-04-29 16:40:53]  Current price: 1.13992
+[2025-04-29 16:40:53]  RSI: 70.20
+[2025-04-29 16:40:54]  Current price: 1.13992
+[2025-04-29 16:40:54]  RSI: 70.20
+[2025-04-29 16:40:55]  Current price: 1.13991
+[2025-04-29 16:40:55]  RSI: 54.94
+[2025-04-29 16:40:56]  Current price: 1.13986
+[2025-04-29 16:40:56]  RSI: 25.31
+[2025-04-29 16:40:57]  Current price: 1.13987
+[2025-04-29 16:40:57]  RSI: 33.08
+[2025-04-29 16:40:58]  Current price: 1.13988
+[2025-04-29 16:40:58]  RSI: 39.83
+[2025-04-29 16:40:59]  Current price: 1.13987
+[2025-04-29 16:40:59]  RSI: 35.93
+[2025-04-29 16:41:00]  Current price: 1.13987
+[2025-04-29 16:41:00]  RSI: 35.93
+[2025-04-29 16:41:01]  Current price: 1.13988
+[2025-04-29 16:41:01]  RSI: 42.46
+[2025-04-29 16:41:02]  Current price: 1.13988
+[2025-04-29 16:41:02]  RSI: 42.46
+[2025-04-29 16:41:03]  Current price: 1.13988
+[2025-04-29 16:41:03]  RSI: 42.46
+[2025-04-29 16:41:04]  Current price: 1.13986
+[2025-04-29 16:41:04]  RSI: 33.84
+[2025-04-29 16:41:05]  Current price: 1.13986
+[2025-04-29 16:41:05]  RSI: 33.84
+[2025-04-29 16:41:06]  Current price: 1.13987
+[2025-04-29 16:41:06]  RSI: 40.81
+[2025-04-29 16:41:07]  Current price: 1.13988
+[2025-04-29 16:41:07]  RSI: 46.84
+[2025-04-29 16:41:08]  Current price: 1.13988
+[2025-04-29 16:41:08]  RSI: 46.84
+[2025-04-29 16:41:09]  Current price: 1.13988
+[2025-04-29 16:41:09]  RSI: 46.84
+[2025-04-29 16:41:10]  Current price: 1.13988
+[2025-04-29 16:41:10]  RSI: 46.84
+[2025-04-29 16:41:11]  Current price: 1.13987
+[2025-04-29 16:41:11]  RSI: 41.19
+[2025-04-29 16:41:12]  Current price: 1.13988
+[2025-04-29 16:41:12]  RSI: 47.95
+[2025-04-29 16:41:13]  Current price: 1.13986
+[2025-04-29 16:41:13]  RSI: 38.44
+[2025-04-29 16:41:14]  Current price: 1.13986
+[2025-04-29 16:41:14]  RSI: 38.44
+[2025-04-29 16:41:15]  Current price: 1.13984
+[2025-04-29 16:41:15]  RSI: 31.25
+[2025-04-29 16:41:16]  Current price: 1.13983
+[2025-04-29 16:41:16]  RSI: 28.39
+[2025-04-29 16:41:17]  Current price: 1.13983
+[2025-04-29 16:41:17]  RSI: 28.39
+[2025-04-29 16:41:18]  Current price: 1.13982
+[2025-04-29 16:41:18]  RSI: 25.67
+[2025-04-29 16:41:19]  Current price: 1.13982
+[2025-04-29 16:41:19]  RSI: 25.67
+[2025-04-29 16:41:20]  Current price: 1.13983
+[2025-04-29 16:41:20]  RSI: 33.11
+[2025-04-29 16:41:21]  Current price: 1.13985
+[2025-04-29 16:41:21]  RSI: 44.97
+[2025-04-29 16:41:22]  Current price: 1.13985
+[2025-04-29 16:41:22]  RSI: 44.97
+[2025-04-29 16:41:23]  Current price: 1.13986
+[2025-04-29 16:41:23]  RSI: 50.11
+[2025-04-29 16:41:24]  Current price: 1.13986
+[2025-04-29 16:41:24]  RSI: 50.11
+[2025-04-29 16:41:25]  Current price: 1.13993
+[2025-04-29 16:41:25]  RSI: 71.61
+[2025-04-29 16:41:26]  Current price: 1.13993
+[2025-04-29 16:41:26]  RSI: 71.61
+[2025-04-29 16:41:27]  Current price: 1.13993
+[2025-04-29 16:41:27]  RSI: 71.61
+[2025-04-29 16:41:28]  Current price: 1.13991
+[2025-04-29 16:41:28]  RSI: 62.06
+[2025-04-29 16:41:29]  Current price: 1.13994
+[2025-04-29 16:41:29]  RSI: 68.78
+[2025-04-29 16:41:30]  Current price: 1.13996
+[2025-04-29 16:41:30]  RSI: 72.31
+[2025-04-29 16:41:31]  Current price: 1.13997
+[2025-04-29 16:41:31]  RSI: 73.89
+[2025-04-29 16:41:32]  Current price: 1.13996
+[2025-04-29 16:41:32]  RSI: 69.60
+[2025-04-29 16:41:33]  Current price: 1.13995
+[2025-04-29 16:41:33]  RSI: 65.50
+[2025-04-29 16:41:34]  Current price: 1.13995
+[2025-04-29 16:41:34]  RSI: 65.50
+[2025-04-29 16:41:35]  Current price: 1.13995
+[2025-04-29 16:41:35]  RSI: 65.50
+[2025-04-29 16:41:36]  Current price: 1.13994
+[2025-04-29 16:41:36]  RSI: 61.01
+[2025-04-29 16:41:37]  Current price: 1.13995
+[2025-04-29 16:41:37]  RSI: 63.69
+[2025-04-29 16:41:38]  Current price: 1.13995
+[2025-04-29 16:41:38]  RSI: 63.69
+[2025-04-29 16:41:39]  Current price: 1.14
+[2025-04-29 16:41:39]  RSI: 74.04
+[2025-04-29 16:41:40]  Current price: 1.13996
+[2025-04-29 16:41:40]  RSI: 59.45
+[2025-04-29 16:41:41]  Current price: 1.13996
+[2025-04-29 16:41:41]  RSI: 59.45
+[2025-04-29 16:41:42]  Current price: 1.13996
+[2025-04-29 16:41:42]  RSI: 59.45
+[2025-04-29 16:41:43]  Current price: 1.13996
+[2025-04-29 16:41:43]  RSI: 59.45
+[2025-04-29 16:41:44]  Current price: 1.13996
+[2025-04-29 16:41:44]  RSI: 59.45
+[2025-04-29 16:41:45]  Current price: 1.13996
+[2025-04-29 16:41:45]  RSI: 59.45
+[2025-04-29 16:41:46]  Current price: 1.13997
+[2025-04-29 16:41:46]  RSI: 62.34
+[2025-04-29 16:41:47]  Current price: 1.13996
+[2025-04-29 16:41:47]  RSI: 57.89
+[2025-04-29 16:41:48]  Current price: 1.13996
+[2025-04-29 16:41:48]  RSI: 57.89
+[2025-04-29 16:41:49]  Current price: 1.13996
+[2025-04-29 16:41:49]  RSI: 57.89
+[2025-04-29 16:41:50]  Current price: 1.13996
+[2025-04-29 16:41:50]  RSI: 57.89
+[2025-04-29 16:41:51]  Current price: 1.13996
+[2025-04-29 16:41:51]  RSI: 57.89
+[2025-04-29 16:41:52]  Current price: 1.14001
+[2025-04-29 16:41:52]  RSI: 72.24
+[2025-04-29 16:41:53]  Current price: 1.14001
+[2025-04-29 16:41:53]  RSI: 72.24
+[2025-04-29 16:41:54]  Current price: 1.14003
+[2025-04-29 16:41:54]  RSI: 76.03
+[2025-04-29 16:41:55]  Current price: 1.14003
+[2025-04-29 16:41:55]  RSI: 76.03
+[2025-04-29 16:41:56]  Current price: 1.14003
+[2025-04-29 16:41:56]  RSI: 76.03
+[2025-04-29 16:41:57]  Current price: 1.14001
+[2025-04-29 16:41:57]  RSI: 64.96
+[2025-04-29 16:41:58]  Current price: 1.14001
+[2025-04-29 16:41:58]  RSI: 64.96
+[2025-04-29 16:41:59]  Current price: 1.14003
+[2025-04-29 16:41:59]  RSI: 70.02
+[2025-04-29 16:42:00]  Current price: 1.14001
+[2025-04-29 16:42:00]  RSI: 60.59
+[2025-04-29 16:42:01]  Current price: 1.14004
+[2025-04-29 16:42:01]  RSI: 67.63
+[2025-04-29 16:42:02]  Current price: 1.14009
+[2025-04-29 16:42:02]  RSI: 75.49
+[2025-04-29 16:42:03]  Current price: 1.14008
+[2025-04-29 16:42:03]  RSI: 71.74
+[2025-04-29 16:42:04]  Current price: 1.14008
+[2025-04-29 16:42:04]  RSI: 71.74
+[2025-04-29 16:42:05]  Current price: 1.14005
+[2025-04-29 16:42:05]  RSI: 61.16
+[2025-04-29 16:42:06]  Current price: 1.14005
+[2025-04-29 16:42:06]  RSI: 61.16
+[2025-04-29 16:42:07]  Current price: 1.14004
+[2025-04-29 16:42:07]  RSI: 57.86
+[2025-04-29 16:42:08]  Current price: 1.14005
+[2025-04-29 16:42:08]  RSI: 60.18
+[2025-04-29 16:42:09]  Current price: 1.14004
+[2025-04-29 16:42:09]  RSI: 56.82
+[2025-04-29 16:42:10]  Current price: 1.14003
+[2025-04-29 16:42:10]  RSI: 53.60
+[2025-04-29 16:42:11]  Current price: 1.14004
+[2025-04-29 16:42:11]  RSI: 56.27
+[2025-04-29 16:42:12]  Current price: 1.14006
+[2025-04-29 16:42:12]  RSI: 61.09
+[2025-04-29 16:42:13]  Current price: 1.14011
+[2025-04-29 16:42:13]  RSI: 70.00
+[2025-04-29 16:42:14]  Current price: 1.14014
+[2025-04-29 16:42:14]  RSI: 73.86
+[2025-04-29 16:42:15]  Current price: 1.14019
+[2025-04-29 16:42:15]  RSI: 78.77
+[2025-04-29 16:42:16]  Current price: 1.14018
+[2025-04-29 16:42:16]  RSI: 75.71
+[2025-04-29 16:42:17]  Current price: 1.14018
+[2025-04-29 16:42:17]  RSI: 75.71
+[2025-04-29 16:42:18]  Current price: 1.14017
+[2025-04-29 16:42:18]  RSI: 72.44
+[2025-04-29 16:42:19]  Current price: 1.14017
+[2025-04-29 16:42:19]  RSI: 72.44
+[2025-04-29 16:42:20]  Current price: 1.14015
+[2025-04-29 16:42:20]  RSI: 65.85
+[2025-04-29 16:42:21]  Current price: 1.14015
+[2025-04-29 16:42:21]  RSI: 65.85
+[2025-04-29 16:42:22]  Current price: 1.14015
+[2025-04-29 16:42:22]  RSI: 65.85
+[2025-04-29 16:42:23]  Current price: 1.14011
+[2025-04-29 16:42:23]  RSI: 53.66
+[2025-04-29 16:42:24]  Current price: 1.1401
+[2025-04-29 16:42:24]  RSI: 51.11
+[2025-04-29 16:42:25]  Current price: 1.14021
+[2025-04-29 16:42:25]  RSI: 68.71
+[2025-04-29 16:42:26]  Current price: 1.14025
+[2025-04-29 16:42:26]  RSI: 72.58
+[2025-04-29 16:42:27]  Current price: 1.14024
+[2025-04-29 16:42:27]  RSI: 70.24
+[2025-04-29 16:42:28]  Current price: 1.1403
+[2025-04-29 16:42:28]  RSI: 75.37
+[2025-04-29 16:42:29]  Current price: 1.1403
+[2025-04-29 16:42:29]  RSI: 75.37
+[2025-04-29 16:42:30]  Current price: 1.1403
+[2025-04-29 16:42:30]  RSI: 75.37
+[2025-04-29 16:42:31]  Current price: 1.14028
+[2025-04-29 16:42:31]  RSI: 70.32
+[2025-04-29 16:42:32]  Current price: 1.14029
+[2025-04-29 16:42:32]  RSI: 71.36
+[2025-04-29 16:42:33]  Current price: 1.14029
+[2025-04-29 16:42:33]  RSI: 71.36
+[2025-04-29 16:42:34]  Current price: 1.14029
+[2025-04-29 16:42:34]  RSI: 71.36
+[2025-04-29 16:42:35]  Current price: 1.14024
+[2025-04-29 16:42:35]  RSI: 58.63
+[2025-04-29 16:42:36]  Current price: 1.14024
+[2025-04-29 16:42:36]  RSI: 58.63
+[2025-04-29 16:42:37]  Current price: 1.14024
+[2025-04-29 16:42:37]  RSI: 58.63
+[2025-04-29 16:42:38]  Current price: 1.14024
+[2025-04-29 16:42:38]  RSI: 58.63
+[2025-04-29 16:42:39]  Current price: 1.14029
+[2025-04-29 16:42:39]  RSI: 66.63
+[2025-04-29 16:42:40]  Current price: 1.14029
+[2025-04-29 16:42:40]  RSI: 66.63
+[2025-04-29 16:42:41]  Current price: 1.14027
+[2025-04-29 16:42:41]  RSI: 61.14
+[2025-04-29 16:42:42]  Current price: 1.14025
+[2025-04-29 16:42:42]  RSI: 56.16
+[2025-04-29 16:42:43]  Current price: 1.14026
+[2025-04-29 16:42:43]  RSI: 58.00
+[2025-04-29 16:42:44]  Current price: 1.14026
+[2025-04-29 16:42:44]  RSI: 58.00
+[2025-04-29 16:42:45]  Current price: 1.14026
+[2025-04-29 16:42:45]  RSI: 58.00
+[2025-04-29 16:42:46]  Current price: 1.14026
+[2025-04-29 16:42:46]  RSI: 58.00
+[2025-04-29 16:42:47]  Current price: 1.14026
+[2025-04-29 16:42:47]  RSI: 58.00
+[2025-04-29 16:42:48]  Current price: 1.14026
+[2025-04-29 16:42:48]  RSI: 58.00
+[2025-04-29 16:42:49]  Current price: 1.14025
+[2025-04-29 16:42:49]  RSI: 54.43
+[2025-04-29 16:42:50]  Current price: 1.14026
+[2025-04-29 16:42:50]  RSI: 57.27
+[2025-04-29 16:42:51]  Current price: 1.14025
+[2025-04-29 16:42:51]  RSI: 53.67
+[2025-04-29 16:42:52]  Current price: 1.14025
+[2025-04-29 16:42:52]  RSI: 53.67
+[2025-04-29 16:42:54]  Current price: 1.14025
+[2025-04-29 16:42:54]  RSI: 53.67
+[2025-04-29 16:42:54]  Current price: 1.14025
+[2025-04-29 16:42:54]  RSI: 53.67
+[2025-04-29 16:42:55]  Current price: 1.14025
+[2025-04-29 16:42:55]  RSI: 53.67
+[2025-04-29 16:42:56]  Current price: 1.14025
+[2025-04-29 16:42:56]  RSI: 53.67
+[2025-04-29 16:42:57]  Current price: 1.14031
+[2025-04-29 16:42:57]  RSI: 70.81
+[2025-04-29 16:42:58]  Current price: 1.14031
+[2025-04-29 16:42:58]  RSI: 70.81
+[2025-04-29 16:42:59]  Current price: 1.14029
+[2025-04-29 16:42:59]  RSI: 61.95
+[2025-04-29 16:43:00]  Current price: 1.14029
+[2025-04-29 16:43:00]  RSI: 61.95
+[2025-04-29 16:43:01]  Current price: 1.14026
+[2025-04-29 16:43:01]  RSI: 50.88
+[2025-04-29 16:43:02]  Current price: 1.14026
+[2025-04-29 16:43:02]  RSI: 50.88
+[2025-04-29 16:43:03]  Current price: 1.14026
+[2025-04-29 16:43:03]  RSI: 50.88
+[2025-04-29 16:43:04]  Current price: 1.14024
+[2025-04-29 16:43:04]  RSI: 44.29
+[2025-04-29 16:43:05]  Current price: 1.14024
+[2025-04-29 16:43:05]  RSI: 44.29
+[2025-04-29 16:43:06]  Current price: 1.14024
+[2025-04-29 16:43:06]  RSI: 44.29
+[2025-04-29 16:43:07]  Current price: 1.1402
+[2025-04-29 16:43:07]  RSI: 33.46
+[2025-04-29 16:43:08]  Current price: 1.14019
+[2025-04-29 16:43:08]  RSI: 31.39
+[2025-04-29 16:43:09]  Current price: 1.14019
+[2025-04-29 16:43:09]  RSI: 31.39
+[2025-04-29 16:43:10]  Current price: 1.14019
+[2025-04-29 16:43:10]  RSI: 31.39
+[2025-04-29 16:43:11]  Current price: 1.14019
+[2025-04-29 16:43:11]  RSI: 31.39
+[2025-04-29 16:43:12]  Current price: 1.14013
+[2025-04-29 16:43:12]  RSI: 20.95
+[2025-04-29 16:43:13]  Current price: 1.14014
+[2025-04-29 16:43:13]  RSI: 25.40
+[2025-04-29 16:43:14]  Current price: 1.14016
+[2025-04-29 16:43:14]  RSI: 33.48
+[2025-04-29 16:43:15]  Current price: 1.14016
+[2025-04-29 16:43:15]  RSI: 33.48
+[2025-04-29 16:43:16]  Current price: 1.14016
+[2025-04-29 16:43:16]  RSI: 33.48
+[2025-04-29 16:43:17]  Current price: 1.14015
+[2025-04-29 16:43:17]  RSI: 31.36
+[2025-04-29 16:43:18]  Current price: 1.14015
+[2025-04-29 16:43:18]  RSI: 31.36
+[2025-04-29 16:43:19]  Current price: 1.14015
+[2025-04-29 16:43:19]  RSI: 31.36
+[2025-04-29 16:43:20]  Current price: 1.14015
+[2025-04-29 16:43:20]  RSI: 31.36
+[2025-04-29 16:43:21]  Current price: 1.14015
+[2025-04-29 16:43:21]  RSI: 31.36
+[2025-04-29 16:43:22]  Current price: 1.14016
+[2025-04-29 16:43:22]  RSI: 37.12
+[2025-04-29 16:43:23]  Current price: 1.14015
+[2025-04-29 16:43:23]  RSI: 34.04
+[2025-04-29 16:43:24]  Current price: 1.14015
+[2025-04-29 16:43:24]  RSI: 34.04
+[2025-04-29 16:43:25]  Current price: 1.14015
+[2025-04-29 16:43:25]  RSI: 34.04
+[2025-04-29 16:43:26]  Current price: 1.14016
+[2025-04-29 16:43:26]  RSI: 40.23
+[2025-04-29 16:43:27]  Current price: 1.14018
+[2025-04-29 16:43:27]  RSI: 50.29
+[2025-04-29 16:43:28]  Current price: 1.14017
+[2025-04-29 16:43:28]  RSI: 46.11
+[2025-04-29 16:43:29]  Current price: 1.14029
+[2025-04-29 16:43:29]  RSI: 74.01
+[2025-04-29 16:43:30]  Current price: 1.1403
+[2025-04-29 16:43:30]  RSI: 75.16
+[2025-04-29 16:43:31]  Current price: 1.14031
+[2025-04-29 16:43:31]  RSI: 76.29
+[2025-04-29 16:43:32]  Current price: 1.1403
+[2025-04-29 16:43:32]  RSI: 72.72
+[2025-04-29 16:43:33]  Current price: 1.1403
+[2025-04-29 16:43:33]  RSI: 72.72
+[2025-04-29 16:43:34]  Current price: 1.1403
+[2025-04-29 16:43:34]  RSI: 72.72
+[2025-04-29 16:43:35]  Current price: 1.14029
+[2025-04-29 16:43:35]  RSI: 68.70
+[2025-04-29 16:43:36]  Current price: 1.1403
+[2025-04-29 16:43:36]  RSI: 70.46
+[2025-04-29 16:43:37]  Current price: 1.14023
+[2025-04-29 16:43:37]  RSI: 49.50
+[2025-04-29 16:43:38]  Current price: 1.14024
+[2025-04-29 16:43:38]  RSI: 51.71
+[2025-04-29 16:43:39]  Current price: 1.14023
+[2025-04-29 16:43:39]  RSI: 49.38
+[2025-04-29 16:43:40]  Current price: 1.14024
+[2025-04-29 16:43:40]  RSI: 51.72
+[2025-04-29 16:43:41]  Current price: 1.14024
+[2025-04-29 16:43:41]  RSI: 51.72
+[2025-04-29 16:43:42]  Current price: 1.14023
+[2025-04-29 16:43:42]  RSI: 49.09
+[2025-04-29 16:43:43]  Current price: 1.14028
+[2025-04-29 16:43:43]  RSI: 60.04
+[2025-04-29 16:43:44]  Current price: 1.14029
+[2025-04-29 16:43:44]  RSI: 61.81
+[2025-04-29 16:43:45]  Current price: 1.14029
+[2025-04-29 16:43:45]  RSI: 61.81
+[2025-04-29 16:43:46]  Current price: 1.14027
+[2025-04-29 16:43:46]  RSI: 56.05
+[2025-04-29 16:43:47]  Current price: 1.14025
+[2025-04-29 16:43:47]  RSI: 50.94
+[2025-04-29 16:43:48]  Current price: 1.14025
+[2025-04-29 16:43:48]  RSI: 50.94
+[2025-04-29 16:43:49]  Current price: 1.14025
+[2025-04-29 16:43:49]  RSI: 50.94
+[2025-04-29 16:43:50]  Current price: 1.14029
+[2025-04-29 16:43:50]  RSI: 60.04
+[2025-04-29 16:43:51]  Current price: 1.1403
+[2025-04-29 16:43:51]  RSI: 61.94
+[2025-04-29 16:43:52]  Current price: 1.14029
+[2025-04-29 16:43:52]  RSI: 58.92
+[2025-04-29 16:43:53]  Current price: 1.14024
+[2025-04-29 16:43:53]  RSI: 46.68
+[2025-04-29 16:43:54]  Current price: 1.14023
+[2025-04-29 16:43:54]  RSI: 44.68
+[2025-04-29 16:43:55]  Current price: 1.14021
+[2025-04-29 16:43:55]  RSI: 40.90
+[2025-04-29 16:43:56]  Current price: 1.1402
+[2025-04-29 16:43:56]  RSI: 39.12
+[2025-04-29 16:43:57]  Current price: 1.1402
+[2025-04-29 16:43:57]  RSI: 39.12
+[2025-04-29 16:43:58]  Current price: 1.14021
+[2025-04-29 16:43:58]  RSI: 42.05
+[2025-04-29 16:43:59]  Current price: 1.14021
+[2025-04-29 16:43:59]  RSI: 42.05
+[2025-04-29 16:44:00]  Current price: 1.14021
+[2025-04-29 16:44:00]  RSI: 42.05
+[2025-04-29 16:44:01]  Current price: 1.14021
+[2025-04-29 16:44:01]  RSI: 42.05
+[2025-04-29 16:44:02]  Current price: 1.1402
+[2025-04-29 16:44:02]  RSI: 39.50
+[2025-04-29 16:44:03]  Current price: 1.1402
+[2025-04-29 16:44:03]  RSI: 39.50
+[2025-04-29 16:44:04]  Current price: 1.1402
+[2025-04-29 16:44:04]  RSI: 39.50
+[2025-04-29 16:44:05]  Current price: 1.1402
+[2025-04-29 16:44:05]  RSI: 39.50
+[2025-04-29 16:44:06]  Current price: 1.14021
+[2025-04-29 16:44:06]  RSI: 44.06
+[2025-04-29 16:44:07]  Current price: 1.14021
+[2025-04-29 16:44:07]  RSI: 44.06
+[2025-04-29 16:44:08]  Current price: 1.14021
+[2025-04-29 16:44:08]  RSI: 44.06
+[2025-04-29 16:44:09]  Current price: 1.14021
+[2025-04-29 16:44:09]  RSI: 44.06
+[2025-04-29 16:44:10]  Current price: 1.14023
+[2025-04-29 16:44:10]  RSI: 53.50
+[2025-04-29 16:44:11]  Current price: 1.14022
+[2025-04-29 16:44:11]  RSI: 49.05
+[2025-04-29 16:44:12]  Current price: 1.14029
+[2025-04-29 16:44:12]  RSI: 68.70
+[2025-04-29 16:44:13]  Current price: 1.14026
+[2025-04-29 16:44:13]  RSI: 58.32
+[2025-04-29 16:44:14]  Current price: 1.14023
+[2025-04-29 16:44:14]  RSI: 50.16
+[2025-04-29 16:44:15]  Current price: 1.14019
+[2025-04-29 16:44:15]  RSI: 41.76
+[2025-04-29 16:44:16]  Current price: 1.14019
+[2025-04-29 16:44:16]  RSI: 41.76
+[2025-04-29 16:44:17]  Current price: 1.14019
+[2025-04-29 16:44:17]  RSI: 41.76
+[2025-04-29 16:44:18]  Current price: 1.14021
+[2025-04-29 16:44:18]  RSI: 47.27
+[2025-04-29 16:44:19]  Current price: 1.14021
+[2025-04-29 16:44:19]  RSI: 47.27
+[2025-04-29 16:44:20]  Current price: 1.14006
+[2025-04-29 16:44:20]  RSI: 25.93
+[2025-04-29 16:44:21]  Current price: 1.14005
+[2025-04-29 16:44:21]  RSI: 25.12
+[2025-04-29 16:44:22]  Current price: 1.14003
+[2025-04-29 16:44:22]  RSI: 23.53
+[2025-04-29 16:44:23]  Current price: 1.14005
+[2025-04-29 16:44:23]  RSI: 28.41
+[2025-04-29 16:44:24]  Current price: 1.14
+[2025-04-29 16:44:24]  RSI: 24.24
+[2025-04-29 16:44:25]  Current price: 1.14
+[2025-04-29 16:44:25]  RSI: 24.24
+[2025-04-29 16:44:26]  Current price: 1.14005
+[2025-04-29 16:44:26]  RSI: 35.26
+[2025-04-29 16:44:27]  Current price: 1.14008
+[2025-04-29 16:44:27]  RSI: 40.82
+[2025-04-29 16:44:28]  Current price: 1.1401
+[2025-04-29 16:44:28]  RSI: 44.25
+[2025-04-29 16:44:29]  Current price: 1.14009
+[2025-04-29 16:44:29]  RSI: 42.91
+[2025-04-29 16:44:30]  Current price: 1.14009
+[2025-04-29 16:44:30]  RSI: 42.91
+[2025-04-29 16:44:31]  Current price: 1.14009
+[2025-04-29 16:44:31]  RSI: 42.91
+[2025-04-29 16:44:32]  Current price: 1.14009
+[2025-04-29 16:44:32]  RSI: 42.91
+[2025-04-29 16:44:33]  Current price: 1.14009
+[2025-04-29 16:44:33]  RSI: 42.91
+[2025-04-29 16:44:34]  Current price: 1.14009
+[2025-04-29 16:44:34]  RSI: 42.91
+[2025-04-29 16:44:35]  Current price: 1.1401
+[2025-04-29 16:44:35]  RSI: 45.49
+[2025-04-29 16:44:36]  Current price: 1.14006
+[2025-04-29 16:44:36]  RSI: 38.08
+[2025-04-29 16:44:37]  Current price: 1.1401
+[2025-04-29 16:44:37]  RSI: 47.32
+[2025-04-29 16:44:38]  Current price: 1.14008
+[2025-04-29 16:44:38]  RSI: 43.80
+[2025-04-29 16:44:39]  Current price: 1.14008
+[2025-04-29 16:44:39]  RSI: 43.80
+[2025-04-29 16:44:40]  Current price: 1.14004
+[2025-04-29 16:44:40]  RSI: 37.36
+[2025-04-29 16:44:41]  Current price: 1.14006
+[2025-04-29 16:44:41]  RSI: 41.96
+[2025-04-29 16:44:42]  Current price: 1.14005
+[2025-04-29 16:44:42]  RSI: 40.36
+[2025-04-29 16:44:43]  Current price: 1.14005
+[2025-04-29 16:44:43]  RSI: 40.36
+[2025-04-29 16:44:44]  Current price: 1.14005
+[2025-04-29 16:44:44]  RSI: 40.36
+[2025-04-29 16:44:45]  Current price: 1.14006
+[2025-04-29 16:44:45]  RSI: 43.06
+[2025-04-29 16:44:46]  Current price: 1.14009
+[2025-04-29 16:44:46]  RSI: 50.34
+[2025-04-29 16:44:47]  Current price: 1.1401
+[2025-04-29 16:44:47]  RSI: 52.52
+[2025-04-29 16:44:48]  Current price: 1.14009
+[2025-04-29 16:44:48]  RSI: 50.15
+[2025-04-29 16:44:49]  Current price: 1.14007
+[2025-04-29 16:44:49]  RSI: 45.71
+[2025-04-29 16:44:50]  Current price: 1.14006
+[2025-04-29 16:44:50]  RSI: 43.63
+[2025-04-29 16:44:51]  Current price: 1.14005
+[2025-04-29 16:44:51]  RSI: 41.59
+[2025-04-29 16:44:52]  Current price: 1.14007
+[2025-04-29 16:44:52]  RSI: 46.93
+[2025-04-29 16:44:53]  Current price: 1.1401
+[2025-04-29 16:44:53]  RSI: 53.76
+[2025-04-29 16:44:54]  Current price: 1.1401
+[2025-04-29 16:44:54]  RSI: 53.76
+[2025-04-29 16:44:55]  Current price: 1.14007
+[2025-04-29 16:44:55]  RSI: 46.78
+[2025-04-29 16:44:56]  Current price: 1.14008
+[2025-04-29 16:44:56]  RSI: 49.15
+[2025-04-29 16:44:57]  Current price: 1.14007
+[2025-04-29 16:44:57]  RSI: 46.90
+[2025-04-29 16:44:58]  Current price: 1.14007
+[2025-04-29 16:44:58]  RSI: 46.90
+[2025-04-29 16:44:59]  Current price: 1.14007
+[2025-04-29 16:44:59]  RSI: 46.90
+[2025-04-29 16:45:00]  Current price: 1.14006
+[2025-04-29 16:45:00]  RSI: 44.36
+[2025-04-29 16:45:01]  Current price: 1.14005
+[2025-04-29 16:45:01]  RSI: 41.92
+[2025-04-29 16:45:02]  Current price: 1.14008
+[2025-04-29 16:45:02]  RSI: 50.69
+[2025-04-29 16:45:03]  Current price: 1.14008
+[2025-04-29 16:45:03]  RSI: 50.69
+[2025-04-29 16:45:04]  Current price: 1.14006
+[2025-04-29 16:45:04]  RSI: 45.39
+[2025-04-29 16:45:05]  Current price: 1.14005
+[2025-04-29 16:45:05]  RSI: 42.97
+[2025-04-29 16:45:06]  Current price: 1.14005
+[2025-04-29 16:45:06]  RSI: 42.97
+[2025-04-29 16:45:07]  Current price: 1.14005
+[2025-04-29 16:45:07]  RSI: 42.97
+[2025-04-29 16:45:08]  Current price: 1.14005
+[2025-04-29 16:45:08]  RSI: 42.97
+[2025-04-29 16:45:09]  Current price: 1.14004
+[2025-04-29 16:45:09]  RSI: 40.10
+[2025-04-29 16:45:10]  Current price: 1.14005
+[2025-04-29 16:45:10]  RSI: 44.12
+[2025-04-29 16:45:11]  Current price: 1.14005
+[2025-04-29 16:45:11]  RSI: 44.12
+[2025-04-29 16:45:12]  Current price: 1.14005
+[2025-04-29 16:45:12]  RSI: 44.12
+[2025-04-29 16:45:13]  Current price: 1.14005
+[2025-04-29 16:45:13]  RSI: 44.12
+[2025-04-29 16:45:14]  Current price: 1.14005
+[2025-04-29 16:45:14]  RSI: 44.12
+[2025-04-29 16:45:15]  Current price: 1.14005
+[2025-04-29 16:45:15]  RSI: 44.12
+[2025-04-29 16:45:16]  Current price: 1.13991
+[2025-04-29 16:45:16]  RSI: 17.89
+[2025-04-29 16:45:17]  Current price: 1.13984
+[2025-04-29 16:45:17]  RSI: 13.55
+[2025-04-29 16:45:18]  Current price: 1.13985
+[2025-04-29 16:45:18]  RSI: 16.66
+[2025-04-29 16:45:19]  Current price: 1.13985
+[2025-04-29 16:45:19]  RSI: 16.66
+[2025-04-29 16:45:20]  Current price: 1.13985
+[2025-04-29 16:45:20]  RSI: 16.66
+[2025-04-29 16:45:21]  Current price: 1.13987
+[2025-04-29 16:45:21]  RSI: 23.53
+[2025-04-29 16:45:22]  Current price: 1.13994
+[2025-04-29 16:45:22]  RSI: 41.66
+[2025-04-29 16:45:23]  Current price: 1.13995
+[2025-04-29 16:45:23]  RSI: 43.71
+[2025-04-29 16:45:24]  Current price: 1.13993
+[2025-04-29 16:45:24]  RSI: 40.63
+[2025-04-29 16:45:25]  Current price: 1.13993
+[2025-04-29 16:45:25]  RSI: 40.63
+[2025-04-29 16:45:27]  Current price: 1.13992
+[2025-04-29 16:45:27]  RSI: 39.04
+[2025-04-29 16:45:27]  Current price: 1.13992
+[2025-04-29 16:45:27]  RSI: 39.04
+[2025-04-29 16:45:28]  Current price: 1.13985
+[2025-04-29 16:45:28]  RSI: 29.60
+[2025-04-29 16:45:29]  Current price: 1.13985
+[2025-04-29 16:45:29]  RSI: 29.60
+[2025-04-29 16:45:30]  Current price: 1.13986
+[2025-04-29 16:45:30]  RSI: 32.31
+[2025-04-29 16:45:31]  Current price: 1.1399
+[2025-04-29 16:45:31]  RSI: 41.94
+[2025-04-29 16:45:32]  Current price: 1.13994
+[2025-04-29 16:45:32]  RSI: 49.65
+[2025-04-29 16:45:33]  Current price: 1.13995
+[2025-04-29 16:45:33]  RSI: 51.39
+[2025-04-29 16:45:34]  Current price: 1.13994
+[2025-04-29 16:45:34]  RSI: 49.55
+[2025-04-29 16:45:35]  Current price: 1.13991
+[2025-04-29 16:45:35]  RSI: 44.41
+[2025-04-29 16:45:36]  Current price: 1.13991
+[2025-04-29 16:45:36]  RSI: 44.41
+[2025-04-29 16:45:37]  Current price: 1.1399
+[2025-04-29 16:45:37]  RSI: 42.69
+[2025-04-29 16:45:38]  Current price: 1.1399
+[2025-04-29 16:45:38]  RSI: 42.69
+[2025-04-29 16:45:39]  Current price: 1.13996
+[2025-04-29 16:45:39]  RSI: 54.82
+[2025-04-29 16:45:40]  Current price: 1.13995
+[2025-04-29 16:45:40]  RSI: 52.82
+[2025-04-29 16:45:41]  Current price: 1.13994
+[2025-04-29 16:45:41]  RSI: 50.81
+[2025-04-29 16:45:42]  Current price: 1.13991
+[2025-04-29 16:45:42]  RSI: 45.27
+[2025-04-29 16:45:43]  Current price: 1.13985
+[2025-04-29 16:45:43]  RSI: 36.65
+[2025-04-29 16:45:44]  Current price: 1.13985
+[2025-04-29 16:45:44]  RSI: 36.65
+[2025-04-29 16:45:45]  Current price: 1.13985
+[2025-04-29 16:45:45]  RSI: 36.65
+[2025-04-29 16:45:46]  Current price: 1.13985
+[2025-04-29 16:45:46]  RSI: 36.65
+[2025-04-29 16:45:47]  Current price: 1.13993
+[2025-04-29 16:45:47]  RSI: 52.77
+[2025-04-29 16:45:48]  Current price: 1.13993
+[2025-04-29 16:45:48]  RSI: 52.77
+[2025-04-29 16:45:49]  Current price: 1.13995
+[2025-04-29 16:45:49]  RSI: 56.02
+[2025-04-29 16:45:50]  Current price: 1.13994
+[2025-04-29 16:45:50]  RSI: 54.02
+[2025-04-29 16:45:51]  Current price: 1.13994
+[2025-04-29 16:45:51]  RSI: 54.02
+[2025-04-29 16:45:52]  Current price: 1.13993
+[2025-04-29 16:45:52]  RSI: 51.87
+[2025-04-29 16:45:53]  Current price: 1.13993
+[2025-04-29 16:45:53]  RSI: 51.87
+[2025-04-29 16:45:54]  Current price: 1.13993
+[2025-04-29 16:45:54]  RSI: 51.87
+[2025-04-29 16:45:55]  Current price: 1.13992
+[2025-04-29 16:45:55]  RSI: 49.42
+[2025-04-29 16:45:56]  Current price: 1.1399
+[2025-04-29 16:45:56]  RSI: 44.85
+[2025-04-29 16:45:57]  Current price: 1.13989
+[2025-04-29 16:45:57]  RSI: 42.73
+[2025-04-29 16:45:58]  Current price: 1.13988
+[2025-04-29 16:45:58]  RSI: 40.65
+[2025-04-29 16:45:59]  Current price: 1.13988
+[2025-04-29 16:45:59]  RSI: 40.65
+[2025-04-29 16:46:00]  Current price: 1.13988
+[2025-04-29 16:46:00]  RSI: 40.65
+[2025-04-29 16:46:01]  Current price: 1.13994
+[2025-04-29 16:46:01]  RSI: 56.49
+[2025-04-29 16:46:02]  Current price: 1.13994
+[2025-04-29 16:46:02]  RSI: 56.49
+[2025-04-29 16:46:03]  Current price: 1.1399
+[2025-04-29 16:46:03]  RSI: 46.83
+[2025-04-29 16:46:04]  Current price: 1.13987
+[2025-04-29 16:46:04]  RSI: 41.14
+[2025-04-29 16:46:05]  Current price: 1.13985
+[2025-04-29 16:46:05]  RSI: 37.84
+[2025-04-29 16:46:06]  Current price: 1.13987
+[2025-04-29 16:46:06]  RSI: 42.78
+[2025-04-29 16:46:07]  Current price: 1.13987
+[2025-04-29 16:46:07]  RSI: 42.78
+[2025-04-29 16:46:08]  Current price: 1.13985
+[2025-04-29 16:46:08]  RSI: 39.17
+[2025-04-29 16:46:09]  Current price: 1.13983
+[2025-04-29 16:46:09]  RSI: 35.91
+[2025-04-29 16:46:10]  Current price: 1.13986
+[2025-04-29 16:46:10]  RSI: 43.51
+[2025-04-29 16:46:11]  Current price: 1.1399
+[2025-04-29 16:46:11]  RSI: 51.73
+[2025-04-29 16:46:12]  Current price: 1.13996
+[2025-04-29 16:46:12]  RSI: 60.92
+[2025-04-29 16:46:13]  Current price: 1.13993
+[2025-04-29 16:46:13]  RSI: 55.26
+[2025-04-29 16:46:14]  Current price: 1.13993
+[2025-04-29 16:46:14]  RSI: 55.26
+[2025-04-29 16:46:15]  Current price: 1.13993
+[2025-04-29 16:46:15]  RSI: 55.26
+[2025-04-29 16:46:16]  Current price: 1.13995
+[2025-04-29 16:46:16]  RSI: 58.47
+[2025-04-29 16:46:17]  Current price: 1.13995
+[2025-04-29 16:46:17]  RSI: 58.47
+[2025-04-29 16:46:18]  Current price: 1.13994
+[2025-04-29 16:46:18]  RSI: 56.13
+[2025-04-29 16:46:19]  Current price: 1.13994
+[2025-04-29 16:46:19]  RSI: 56.13
+[2025-04-29 16:46:20]  Current price: 1.13994
+[2025-04-29 16:46:20]  RSI: 56.13
+[2025-04-29 16:46:21]  Current price: 1.13994
+[2025-04-29 16:46:21]  RSI: 56.13
+[2025-04-29 16:46:22]  Current price: 1.13994
+[2025-04-29 16:46:22]  RSI: 56.13
+[2025-04-29 16:46:23]  Current price: 1.13994
+[2025-04-29 16:46:23]  RSI: 56.13
+[2025-04-29 16:46:24]  Current price: 1.13994
+[2025-04-29 16:46:24]  RSI: 56.13
+[2025-04-29 16:46:25]  Current price: 1.13994
+[2025-04-29 16:46:25]  RSI: 56.13
+[2025-04-29 16:46:26]  Current price: 1.13994
+[2025-04-29 16:46:26]  RSI: 56.13
+[2025-04-29 16:46:27]  Current price: 1.13994
+[2025-04-29 16:46:27]  RSI: 56.13
+[2025-04-29 16:46:28]  Current price: 1.13995
+[2025-04-29 16:46:28]  RSI: 59.53
+[2025-04-29 16:46:29]  Current price: 1.13995
+[2025-04-29 16:46:29]  RSI: 59.53
+[2025-04-29 16:46:30]  Current price: 1.13995
+[2025-04-29 16:46:30]  RSI: 59.53
+[2025-04-29 16:46:31]  Current price: 1.13995
+[2025-04-29 16:46:31]  RSI: 59.53
+[2025-04-29 16:46:32]  Current price: 1.13995
+[2025-04-29 16:46:32]  RSI: 59.53
+[2025-04-29 16:46:33]  Current price: 1.13995
+[2025-04-29 16:46:33]  RSI: 59.53
+[2025-04-29 16:46:34]  Current price: 1.13991
+[2025-04-29 16:46:34]  RSI: 40.14
+[2025-04-29 16:46:35]  Current price: 1.13995
+[2025-04-29 16:46:35]  RSI: 55.68
+[2025-04-29 16:46:36]  Current price: 1.13995
+[2025-04-29 16:46:36]  RSI: 55.68
+[2025-04-29 16:46:37]  Current price: 1.13995
+[2025-04-29 16:46:37]  RSI: 55.68
+[2025-04-29 16:46:38]  Current price: 1.13995
+[2025-04-29 16:46:38]  RSI: 55.68
+[2025-04-29 16:46:39]  Current price: 1.13995
+[2025-04-29 16:46:39]  RSI: 55.68
+[2025-04-29 16:46:40]  Current price: 1.13996
+[2025-04-29 16:46:40]  RSI: 59.49
+[2025-04-29 16:46:41]  Current price: 1.14005
+[2025-04-29 16:46:41]  RSI: 77.90
+[2025-04-29 16:46:42]  Current price: 1.14006
+[2025-04-29 16:46:42]  RSI: 79.04
+[2025-04-29 16:46:43]  Current price: 1.14005
+[2025-04-29 16:46:43]  RSI: 74.88
+[2025-04-29 16:46:44]  Current price: 1.14004
+[2025-04-29 16:46:44]  RSI: 70.87
+[2025-04-29 16:46:45]  Current price: 1.14004
+[2025-04-29 16:46:45]  RSI: 70.87
+[2025-04-29 16:46:46]  Current price: 1.14005
+[2025-04-29 16:46:46]  RSI: 72.57
+[2025-04-29 16:46:47]  Current price: 1.14005
+[2025-04-29 16:46:47]  RSI: 72.57
+[2025-04-29 16:46:48]  Current price: 1.14005
+[2025-04-29 16:46:48]  RSI: 72.57
+[2025-04-29 16:46:49]  Current price: 1.14007
+[2025-04-29 16:46:49]  RSI: 76.07
+[2025-04-29 16:46:50]  Current price: 1.14006
+[2025-04-29 16:46:50]  RSI: 71.18
+[2025-04-29 16:46:51]  Current price: 1.14007
+[2025-04-29 16:46:51]  RSI: 73.05
+[2025-04-29 16:46:52]  Current price: 1.14007
+[2025-04-29 16:46:52]  RSI: 73.05
+[2025-04-29 16:46:53]  Current price: 1.14007
+[2025-04-29 16:46:53]  RSI: 73.05
+[2025-04-29 16:46:54]  Current price: 1.14006
+[2025-04-29 16:46:54]  RSI: 67.58
+[2025-04-29 16:46:55]  Current price: 1.14007
+[2025-04-29 16:46:55]  RSI: 70.00
+[2025-04-29 16:46:56]  Current price: 1.14006
+[2025-04-29 16:46:56]  RSI: 64.80
+[2025-04-29 16:46:57]  Current price: 1.14006
+[2025-04-29 16:46:57]  RSI: 64.80
+[2025-04-29 16:46:58]  Current price: 1.14006
+[2025-04-29 16:46:58]  RSI: 64.80
+[2025-04-29 16:46:59]  Current price: 1.1401
+[2025-04-29 16:46:59]  RSI: 74.33
+[2025-04-29 16:47:00]  Current price: 1.14011
+[2025-04-29 16:47:00]  RSI: 76.07
+[2025-04-29 16:47:01]  Current price: 1.14011
+[2025-04-29 16:47:01]  RSI: 76.07
+[2025-04-29 16:47:02]  Current price: 1.1401
+[2025-04-29 16:47:02]  RSI: 70.52
+[2025-04-29 16:47:03]  Current price: 1.1401
+[2025-04-29 16:47:03]  RSI: 70.52
+[2025-04-29 16:47:04]  Current price: 1.14016
+[2025-04-29 16:47:04]  RSI: 80.45
+[2025-04-29 16:47:05]  Current price: 1.14016
+[2025-04-29 16:47:05]  RSI: 80.45
+[2025-04-29 16:47:06]  Current price: 1.14013
+[2025-04-29 16:47:06]  RSI: 67.30
+[2025-04-29 16:47:07]  Current price: 1.14012
+[2025-04-29 16:47:07]  RSI: 63.57
+[2025-04-29 16:47:08]  Current price: 1.14014
+[2025-04-29 16:47:08]  RSI: 67.46
+[2025-04-29 16:47:09]  Current price: 1.1402
+[2025-04-29 16:47:09]  RSI: 75.80
+[2025-04-29 16:47:10]  Current price: 1.1402
+[2025-04-29 16:47:10]  RSI: 75.80
+[2025-04-29 16:47:11]  Current price: 1.1402
+[2025-04-29 16:47:11]  RSI: 75.80
+[2025-04-29 16:47:12]  Current price: 1.1402
+[2025-04-29 16:47:12]  RSI: 75.80
+[2025-04-29 16:47:13]  Current price: 1.1402
+[2025-04-29 16:47:13]  RSI: 75.80
+[2025-04-29 16:47:14]  Current price: 1.1402
+[2025-04-29 16:47:14]  RSI: 75.80
+[2025-04-29 16:47:15]  Current price: 1.1402
+[2025-04-29 16:47:15]  RSI: 75.80
+[2025-04-29 16:47:16]  Current price: 1.14019
+[2025-04-29 16:47:16]  RSI: 70.72
+[2025-04-29 16:47:17]  Current price: 1.14019
+[2025-04-29 16:47:17]  RSI: 70.72
+[2025-04-29 16:47:18]  Current price: 1.14019
+[2025-04-29 16:47:18]  RSI: 70.72
+[2025-04-29 16:47:19]  Current price: 1.1402
+[2025-04-29 16:47:19]  RSI: 72.98
+[2025-04-29 16:47:20]  Current price: 1.14022
+[2025-04-29 16:47:20]  RSI: 76.83
+[2025-04-29 16:47:21]  Current price: 1.14026
+[2025-04-29 16:47:21]  RSI: 82.27
+[2025-04-29 16:47:22]  Current price: 1.14026
+[2025-04-29 16:47:22]  RSI: 82.27
+[2025-04-29 16:47:23]  Current price: 1.14026
+[2025-04-29 16:47:23]  RSI: 82.27
+[2025-04-29 16:47:24]  Current price: 1.14026
+[2025-04-29 16:47:24]  RSI: 82.27
+[2025-04-29 16:47:25]  Current price: 1.14026
+[2025-04-29 16:47:25]  RSI: 82.27
+[2025-04-29 16:47:26]  Current price: 1.14026
+[2025-04-29 16:47:26]  RSI: 82.27
+[2025-04-29 16:47:27]  Current price: 1.14026
+[2025-04-29 16:47:27]  RSI: 82.27
+[2025-04-29 16:47:28]  Current price: 1.14026
+[2025-04-29 16:47:28]  RSI: 82.27
+[2025-04-29 16:47:29]  Current price: 1.14022
+[2025-04-29 16:47:29]  RSI: 57.74
+[2025-04-29 16:47:30]  Current price: 1.1402
+[2025-04-29 16:47:30]  RSI: 49.75
+[2025-04-29 16:47:31]  Current price: 1.1402
+[2025-04-29 16:47:31]  RSI: 49.75
+[2025-04-29 16:47:32]  Current price: 1.1402
+[2025-04-29 16:47:32]  RSI: 49.75
+[2025-04-29 16:47:33]  Current price: 1.1402
+[2025-04-29 16:47:33]  RSI: 49.75
+[2025-04-29 16:47:34]  Current price: 1.14021
+[2025-04-29 16:47:34]  RSI: 54.03
+[2025-04-29 16:47:35]  Current price: 1.1402
+[2025-04-29 16:47:35]  RSI: 49.49
+[2025-04-29 16:47:36]  Current price: 1.1402
+[2025-04-29 16:47:36]  RSI: 49.49
+[2025-04-29 16:47:37]  Current price: 1.1402
+[2025-04-29 16:47:37]  RSI: 49.49
+[2025-04-29 16:47:38]  Current price: 1.14021
+[2025-04-29 16:47:38]  RSI: 54.29
+[2025-04-29 16:47:39]  Current price: 1.14021
+[2025-04-29 16:47:39]  RSI: 54.29
+[2025-04-29 16:47:40]  Current price: 1.1402
+[2025-04-29 16:47:40]  RSI: 48.90
+[2025-04-29 16:47:41]  Current price: 1.14021
+[2025-04-29 16:47:41]  RSI: 53.83
+[2025-04-29 16:47:42]  Current price: 1.14021
+[2025-04-29 16:47:42]  RSI: 53.83
+[2025-04-29 16:47:43]  Current price: 1.1402
+[2025-04-29 16:47:43]  RSI: 48.41
+[2025-04-29 16:47:44]  Current price: 1.1402
+[2025-04-29 16:47:44]  RSI: 48.41
+[2025-04-29 16:47:45]  Current price: 1.14021
+[2025-04-29 16:47:45]  RSI: 53.81
+[2025-04-29 16:47:46]  Current price: 1.14021
+[2025-04-29 16:47:46]  RSI: 53.81
+[2025-04-29 16:47:47]  Current price: 1.1402
+[2025-04-29 16:47:47]  RSI: 47.99
+[2025-04-29 16:47:48]  Current price: 1.1402
+[2025-04-29 16:47:48]  RSI: 47.99
+[2025-04-29 16:47:49]  Current price: 1.14016
+[2025-04-29 16:47:49]  RSI: 31.96
+[2025-04-29 16:47:50]  Current price: 1.14016
+[2025-04-29 16:47:50]  RSI: 31.96
+[2025-04-29 16:47:51]  Current price: 1.14011
+[2025-04-29 16:47:51]  RSI: 21.53
+[2025-04-29 16:47:52]  Current price: 1.1401
+[2025-04-29 16:47:52]  RSI: 20.12
+[2025-04-29 16:47:53]  Current price: 1.14011
+[2025-04-29 16:47:53]  RSI: 25.39
+[2025-04-29 16:47:54]  Current price: 1.14011
+[2025-04-29 16:47:54]  RSI: 25.39
+[2025-04-29 16:47:55]  Current price: 1.1401
+[2025-04-29 16:47:55]  RSI: 23.59
+[2025-04-29 16:47:56]  Current price: 1.14011
+[2025-04-29 16:47:56]  RSI: 29.02
+[2025-04-29 16:47:57]  Current price: 1.1401
+[2025-04-29 16:47:57]  RSI: 26.96
+[2025-04-29 16:47:58]  Current price: 1.14013
+[2025-04-29 16:47:58]  RSI: 40.62
+[2025-04-29 16:47:59]  Current price: 1.14015
+[2025-04-29 16:47:59]  RSI: 47.64
+[2025-04-29 16:48:00]  Current price: 1.14015
+[2025-04-29 16:48:00]  RSI: 47.64
+[2025-04-29 16:48:01]  Current price: 1.14015
+[2025-04-29 16:48:01]  RSI: 47.64
+[2025-04-29 16:48:02]  Current price: 1.14015
+[2025-04-29 16:48:02]  RSI: 47.64
+[2025-04-29 16:48:03]  Current price: 1.14018
+[2025-04-29 16:48:03]  RSI: 57.74
+[2025-04-29 16:48:04]  Current price: 1.14019
+[2025-04-29 16:48:04]  RSI: 60.47
+[2025-04-29 16:48:05]  Current price: 1.14018
+[2025-04-29 16:48:05]  RSI: 56.53
+[2025-04-29 16:48:06]  Current price: 1.14015
+[2025-04-29 16:48:06]  RSI: 46.70
+[2025-04-29 16:48:07]  Current price: 1.14015
+[2025-04-29 16:48:07]  RSI: 46.70
+[2025-04-29 16:48:08]  Current price: 1.14015
+[2025-04-29 16:48:08]  RSI: 46.70
+[2025-04-29 16:48:09]  Current price: 1.14015
+[2025-04-29 16:48:09]  RSI: 46.70
+[2025-04-29 16:48:10]  Current price: 1.14009
+[2025-04-29 16:48:10]  RSI: 31.82
+[2025-04-29 16:48:11]  Current price: 1.14009
+[2025-04-29 16:48:11]  RSI: 31.82
+[2025-04-29 16:48:12]  Current price: 1.14011
+[2025-04-29 16:48:12]  RSI: 39.30
+[2025-04-29 16:48:13]  Current price: 1.14011
+[2025-04-29 16:48:13]  RSI: 39.30
+[2025-04-29 16:48:14]  Current price: 1.1401
+[2025-04-29 16:48:14]  RSI: 36.95
+[2025-04-29 16:48:15]  Current price: 1.1401
+[2025-04-29 16:48:15]  RSI: 36.95
+[2025-04-29 16:48:16]  Current price: 1.14009
+[2025-04-29 16:48:16]  RSI: 34.55
+[2025-04-29 16:48:17]  Current price: 1.1401
+[2025-04-29 16:48:17]  RSI: 38.82
+[2025-04-29 16:48:18]  Current price: 1.1401
+[2025-04-29 16:48:18]  RSI: 38.82
+[2025-04-29 16:48:19]  Current price: 1.1401
+[2025-04-29 16:48:19]  RSI: 38.82
+[2025-04-29 16:48:20]  Current price: 1.1401
+[2025-04-29 16:48:20]  RSI: 38.82
+[2025-04-29 16:48:21]  Current price: 1.1401
+[2025-04-29 16:48:21]  RSI: 38.82
+[2025-04-29 16:48:22]  Current price: 1.1401
+[2025-04-29 16:48:22]  RSI: 38.82
+[2025-04-29 16:48:23]  Current price: 1.1401
+[2025-04-29 16:48:23]  RSI: 38.82
+[2025-04-29 16:48:24]  Current price: 1.1401
+[2025-04-29 16:48:24]  RSI: 38.82
+[2025-04-29 16:48:25]  Current price: 1.1401
+[2025-04-29 16:48:25]  RSI: 38.82
+[2025-04-29 16:48:26]  Current price: 1.1401
+[2025-04-29 16:48:26]  RSI: 38.82
+[2025-04-29 16:48:27]  Current price: 1.1401
+[2025-04-29 16:48:27]  RSI: 38.82
+[2025-04-29 16:48:28]  Current price: 1.1401
+[2025-04-29 16:48:28]  RSI: 38.82
+[2025-04-29 16:48:29]  Current price: 1.1401
+[2025-04-29 16:48:29]  RSI: 38.82
+[2025-04-29 16:48:30]  Current price: 1.1401
+[2025-04-29 16:48:30]  RSI: 38.82
+[2025-04-29 16:48:31]  Current price: 1.1401
+[2025-04-29 16:48:31]  RSI: 38.82
+[2025-04-29 16:48:32]  Current price: 1.1401
+[2025-04-29 16:48:32]  RSI: 38.82
+[2025-04-29 16:48:33]  Current price: 1.1401
+[2025-04-29 16:48:33]  RSI: 38.82
+[2025-04-29 16:48:34]  Current price: 1.14012
+[2025-04-29 16:48:34]  RSI: 58.11
+[2025-04-29 16:48:35]  Current price: 1.14012
+[2025-04-29 16:48:35]  RSI: 58.11
+[2025-04-29 16:48:36]  Current price: 1.14012
+[2025-04-29 16:48:36]  RSI: 58.11
+[2025-04-29 16:48:37]  Current price: 1.14011
+[2025-04-29 16:48:37]  RSI: 48.55
+[2025-04-29 16:48:38]  Current price: 1.14011
+[2025-04-29 16:48:38]  RSI: 48.55
+[2025-04-29 16:48:39]  Current price: 1.14005
+[2025-04-29 16:48:39]  RSI: 22.64
+[2025-04-29 16:48:40]  Current price: 1.14002
+[2025-04-29 16:48:40]  RSI: 17.59
+[2025-04-29 16:48:41]  Current price: 1.14003
+[2025-04-29 16:48:41]  RSI: 23.70
+[2025-04-29 16:48:42]  Current price: 1.14004
+[2025-04-29 16:48:42]  RSI: 29.34
+[2025-04-29 16:48:43]  Current price: 1.14005
+[2025-04-29 16:48:43]  RSI: 34.56
+[2025-04-29 16:48:44]  Current price: 1.14006
+[2025-04-29 16:48:44]  RSI: 39.38
+[2025-04-29 16:48:45]  Current price: 1.14005
+[2025-04-29 16:48:45]  RSI: 36.48
+[2025-04-29 16:48:46]  Current price: 1.13996
+[2025-04-29 16:48:46]  RSI: 21.31
+[2025-04-29 16:48:47]  Current price: 1.13996
+[2025-04-29 16:48:47]  RSI: 21.31
+[2025-04-29 16:48:48]  Current price: 1.13995
+[2025-04-29 16:48:48]  RSI: 20.23
+[2025-04-29 16:48:49]  Current price: 1.14004
+[2025-04-29 16:48:49]  RSI: 46.57
+[2025-04-29 16:48:50]  Current price: 1.14004
+[2025-04-29 16:48:50]  RSI: 46.57
+[2025-04-29 16:48:51]  Current price: 1.14004
+[2025-04-29 16:48:51]  RSI: 46.57
+[2025-04-29 16:48:52]  Current price: 1.13995
+[2025-04-29 16:48:52]  RSI: 32.97
+[2025-04-29 16:48:53]  Current price: 1.13995
+[2025-04-29 16:48:53]  RSI: 32.97
+[2025-04-29 16:48:54]  Current price: 1.13999
+[2025-04-29 16:48:54]  RSI: 41.74
+[2025-04-29 16:48:55]  Current price: 1.14
+[2025-04-29 16:48:55]  RSI: 43.72
+[2025-04-29 16:48:56]  Current price: 1.14006
+[2025-04-29 16:48:56]  RSI: 53.86
+[2025-04-29 16:48:57]  Current price: 1.14006
+[2025-04-29 16:48:57]  RSI: 53.86
+[2025-04-29 16:48:58]  Current price: 1.14006
+[2025-04-29 16:48:58]  RSI: 53.86
+[2025-04-29 16:48:59]  Current price: 1.14006
+[2025-04-29 16:48:59]  RSI: 53.86
+[2025-04-29 16:49:00]  Current price: 1.14005
+[2025-04-29 16:49:00]  RSI: 51.77
+[2025-04-29 16:49:01]  Current price: 1.14005
+[2025-04-29 16:49:01]  RSI: 51.77
+[2025-04-29 16:49:02]  Current price: 1.14006
+[2025-04-29 16:49:02]  RSI: 53.85
+[2025-04-29 16:49:03]  Current price: 1.14005
+[2025-04-29 16:49:03]  RSI: 51.46
+[2025-04-29 16:49:04]  Current price: 1.14006
+[2025-04-29 16:49:04]  RSI: 53.68
+[2025-04-29 16:49:05]  Current price: 1.1401
+[2025-04-29 16:49:05]  RSI: 61.28
+[2025-04-29 16:49:06]  Current price: 1.1401
+[2025-04-29 16:49:06]  RSI: 61.28
+[2025-04-29 16:49:07]  Current price: 1.1401
+[2025-04-29 16:49:07]  RSI: 61.28
+[2025-04-29 16:49:08]  Current price: 1.14009
+[2025-04-29 16:49:08]  RSI: 58.29
+[2025-04-29 16:49:09]  Current price: 1.1401
+[2025-04-29 16:49:09]  RSI: 60.37
+[2025-04-29 16:49:10]  Current price: 1.1401
+[2025-04-29 16:49:10]  RSI: 60.37
+[2025-04-29 16:49:11]  Current price: 1.1401
+[2025-04-29 16:49:11]  RSI: 60.37
+[2025-04-29 16:49:12]  Current price: 1.1401
+[2025-04-29 16:49:12]  RSI: 60.37
