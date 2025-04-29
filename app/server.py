@@ -2,12 +2,21 @@ import os
 from datetime import datetime
 import websocket
 import json
+import pandas as pd
+from ta.momentum import RSIIndicator
+import pprint
+
 
 API_TOKEN = os.getenv("DERIV_API_TOKEN", "**********Go2Hj")  
 previous_tick = None
+is_authorized = False
 
 active_contract_id = None
 entry_price = None
+price_history = []
+contract_stake_limits = {}
+RSI_PERIOD = 14
+
 # Amounts in USD
 STOP_LOSS = 1  # lose $1, close the trade
 TAKE_PROFIT = 2  # gain $2, close the trade
@@ -26,20 +35,31 @@ def on_open(ws):
 def subscribe_to_ticks(ws, symbol="frxEURUSD"):
     ws.send(json.dumps({"ticks": symbol, "subscribe": 1}))
 
-def place_order(ws, action, amount=1, symbol="frxEURUSD"):
+def get_contracts_for(ws, symbol="frxEURUSD"):
+    request = {
+        "contracts_for": symbol,
+        "currency": "USD",
+    }
+    ws.send(json.dumps(request))
+
+def place_order(ws, action, amount, symbol="frxEURUSD"):
     global active_contract_id, entry_price
 
     trade_request = {
-        "buy": 1 if action == "buy" else 0,
-        "price": 0,
+        "buy": 1,
+        "price": 10.0,
         "parameters": {
             "amount": amount,
             "basis": "stake",
             "contract_type": "CALL" if action == "buy" else "PUT",
             "currency": "USD",
-            "duration": 5,
-            "duration_unit": "t",
+            "duration": 15,
+            "duration_unit": "m",
             "symbol": symbol
+        },
+        "passthrough": {
+            "action": action,
+            "amount": amount,
         }
     }
     ws.send(json.dumps(trade_request))
@@ -69,31 +89,51 @@ def monitor_profit_loss(ws, data):
             active_contract_id = None
 
 def analyze_market(price):
-    global previous_tick
-    if previous_tick is None:
-        previous_tick = price
-        return None
+    global price_history
 
-    if price > previous_tick * 1.0002:
+    price_history.append(price)
+
+    if len(price_history) < RSI_PERIOD:
+        return None  # Not enough data yet
+
+    df = pd.DataFrame(price_history, columns=["close"])
+    rsi = RSIIndicator(close=df["close"]).rsi()
+    current_rsi = rsi.iloc[-1]
+
+    log(f"RSI: {current_rsi:.2f}")
+
+    if current_rsi < 30:
         return "buy"
-    elif price < previous_tick * 0.9998:
+    elif current_rsi > 70:
         return "sell"
-    previous_tick = price
     return None
 
 def on_message(ws, message):
-    global active_contract_id
+    global active_contract_id, contract_stake_limits
 
     data = json.loads(message)
 
-     # Check for authorization response
     if data.get('msg_type') == 'authorize':
-        log("Authorization successful. Subscribing to ticks...")
+        log("Authorization successful. Subscribing to ticks and fetching contract limits...")
         subscribe_to_ticks(ws)
+        get_contracts_for(ws)
+        return
+
+    elif data.get('msg_type') == 'contracts_for':
+        log("Received contracts_for data")
+        pprint.pprint(data)
+
+        # Extract min/max stake from the contract list
+        for contract in data['contracts_for']['available']:
+            if contract['contract_type'] in ['CALL', 'PUT']:
+                log(f"{contract['contract_type']} duration: {contract.get('min_contract_duration')} - {contract.get('max_contract_duration')}, expiry: {contract.get('expiry_type')}")
+                stake_info = contract.get('min_stake', 1.0), contract.get('max_stake', 1000.0)
+                contract_stake_limits[contract['contract_type']] = stake_info
+        log(f"Contract stake limits updated: {contract_stake_limits}")
         return
 
     elif data.get('error'):
-        log(f"Authorization failed: {data['error']['message']}")
+        log(f"Error: {data['error']['message']}")
         ws.close()
         return
 
@@ -101,9 +141,18 @@ def on_message(ws, message):
         price = float(data['tick']['quote'])
         log(f"Current price: {price}")
         signal = analyze_market(price)
+
         if signal and not active_contract_id:
-            log(f"Signal detected: {signal.upper()} — Placing order...")
-            place_order(ws, signal)
+            # Determine contract type
+            contract_type = "CALL" if signal == "buy" else "PUT"
+            min_stake, max_stake = contract_stake_limits.get(contract_type, (1.0, 1000.0))
+
+            # Choose an amount within the allowed range (example logic)
+            desired_amount = 1.0
+            amount = max(min(desired_amount, max_stake), min_stake)
+
+            log(f"Signal detected: {signal.upper()} — Placing order with amount: {amount}")
+            place_order(ws, signal, amount)
 
     elif 'buy' in data:
         active_contract_id = data['buy']['contract_id']
