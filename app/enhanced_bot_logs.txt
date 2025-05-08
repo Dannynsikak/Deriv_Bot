@@ -7386,3 +7386,42 @@
 [2025-05-08 12:10:12]  Subscribed to balance updates
 [2025-05-08 12:10:12]  Received contracts_for data
 [2025-05-08 12:10:12]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-08 12:25:00]  New candle: O:1.12909 H:1.13050 L:1.12909 C:1.12979
+[2025-05-08 12:36:26]  WebSocket Error: ping/pong timed out
+[2025-05-08 12:36:29]  Connection closed. Code: None, Message: None
+[2025-05-08 12:49:15]  Starting Enhanced Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-08 12:49:17]  Authentication request sent.
+[2025-05-08 12:49:17]  Authorization successful. Balance: $9998.00
+[2025-05-08 12:49:17]  Subscribed to frxEURUSD ticks
+[2025-05-08 12:49:17]  Requested contract details
+[2025-05-08 12:49:17]  Subscribed to balance updates
+[2025-05-08 12:49:18]  Received contracts_for data
+[2025-05-08 12:49:18]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-08 15:45:43]  WebSocket Error: ping/pong timed out
+[2025-05-08 15:45:46]  Connection closed. Code: None, Message: None
+[2025-05-08 15:53:29]  Starting  Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-08 15:53:31]  Authentication request sent.
+[2025-05-08 15:53:31]  Authorization successful. Balance: $9998.00
+[2025-05-08 15:53:31]  Subscribed to frxEURUSD ticks
+[2025-05-08 15:53:31]  Requested contract details
+[2025-05-08 15:53:31]  Subscribed to balance updates
+[2025-05-08 15:53:32]  Received contracts_for data
+[2025-05-08 15:53:32]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-08 15:57:16]  WebSocket Error: ping/pong timed out
+[2025-05-08 15:57:19]  Connection closed. Code: None, Message: None
+[2025-05-08 16:05:46]  Starting  Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-08 16:05:52]  Authentication request sent.
+[2025-05-08 16:05:53]  Authorization successful. Balance: $9998.00
+[2025-05-08 16:05:53]  Subscribed to frxEURUSD ticks
+[2025-05-08 16:05:53]  Requested contract details
+[2025-05-08 16:05:53]  Subscribed to balance updates
+[2025-05-08 16:05:53]  Received contracts_for data
+[2025-05-08 16:05:53]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-08 16:20:01]  New candle: O:1.12835 H:1.12898 L:1.12800 C:1.12838
+[2025-05-08 16:35:00]  New candle: O:1.12838 H:1.12839 L:1.12700 C:1.12750
+[2025-05-08 16:50:00]  New candle: O:1.12750 H:1.12770 L:1.12433 C:1.12433
+[2025-05-08 17:05:00]  New candle: O:1.12433 H:1.12509 L:1.12346 C:1.12451
+[2025-05-08 17:20:00]  New candle: O:1.12451 H:1.12468 L:1.12248 C:1.12276
+[2025-05-08 17:35:00]  New candle: O:1.12276 H:1.12343 L:1.12207 C:1.12286
+[2025-05-08 17:37:03]  WebSocket Error: ping/pong timed out
+[2025-05-08 17:37:07]  Connection closed. Code: None, Message: None

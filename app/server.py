@@ -343,5 +343,5 @@ if __name__ == "__main__":
                               on_error=on_error,
                               on_close=on_close)
     
-    log("Starting Enhanced Deriv Trading Bot with 15-Minute Candle Analysis")
+    log("Starting  Deriv Trading Bot with 15-Minute Candle Analysis")
     ws.run_forever(ping_interval=30, ping_timeout=10)
