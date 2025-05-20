@@ -3,9 +3,15 @@ import json
 import time
 from datetime import datetime
 import websocket
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ===== CONFIGURATION =====
 API_TOKEN = os.getenv("DERIV_API_TOKEN", "**********Go2Hj")  # Load from env var
+App_ID = os.getenv("APP_ID")
+if not App_ID:
+    raise EnvironmentError("Please set the APP_ID environment variable.")
 SYMBOL = "frxEURUSD"
 STOP_LOSS = -1.0  # USD
 TAKE_PROFIT = 2.0  # USD
@@ -136,7 +142,7 @@ def close_trade(ws, contract_id):
 # ===== BOT INITIALIZATION =====
 def start_bot():
     global should_reconnect
-    socket_url = "wss://ws.derivws.com/websockets/v3?app_id=72161"
+    socket_url = f"wss://ws.derivws.com/websockets/v3?app_id={App_ID}"
 
     log("Starting Deriv Bot...")
     ws = websocket.WebSocketApp(

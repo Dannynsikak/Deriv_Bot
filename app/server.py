@@ -14,8 +14,13 @@ load_dotenv()
 # Configuration constants
 DERIV_API_TOKEN = os.getenv("DERIV_API_TOKEN")
 if not DERIV_API_TOKEN:
-    raise EnvironmentError("Please set the DERIV_API_TOKEN environment variable.")  
+    raise EnvironmentError("Please set the DERIV_API_TOKEN environment variable.")
 
+App_ID = os.getenv("APP_ID")
+if not App_ID:
+    raise EnvironmentError("Please set the APP_ID environment variable.") 
+
+# Trading parameters
 RSI_PERIOD = 14
 EMA_PERIOD = 50
 BB_PERIOD = 20
@@ -23,6 +28,11 @@ ATR_PERIOD = 14
 CANDLE_INTERVAL = 15  # minutes
 MAX_CANDLES = 1000
 WARMUP_PERIODS = max(RSI_PERIOD, EMA_PERIOD, BB_PERIOD, ATR_PERIOD) + 10
+RISK_PER_TRADE = 0.01  # Risk 1% of account balance per trade
+ATR_STOP_MULTIPLIER = 1.5
+ATR_PROFIT_MULTIPLIER = 3.0
+MIN_RSI_ENTRY = 30     # Triggers earlier on oversold (was 35)
+MAX_RSI_ENTRY = 70     # More sensitive than original 65
 
 # Global variables
 active_contract_id = None
@@ -68,8 +78,8 @@ def calculate_position_size(current_atr, entry_price):
         log("Error: Account balance not available")
         return 1.0  # Default minimum stake
     
-    risk_per_trade = ACCOUNT_BALANCE * 0.01  # Risk 1% per trade
-    position_size = risk_per_trade / (current_atr * 1.5)
+    risk_per_trade = ACCOUNT_BALANCE * RISK_PER_TRADE 
+    position_size = risk_per_trade / (current_atr * ATR_STOP_MULTIPLIER)
     
     # Ensure position size is within contract limits
     contract_type = "CALL" if entry_action == "buy" else "PUT"
@@ -247,14 +257,14 @@ def analyze_market(price):
         
         # Generate signals
         buy_signal = (
-            (current_rsi < 35) and
+            (current_rsi < MIN_RSI_ENTRY) and
             (current_close < current_bb_lower) and
             (current_trend == "bearish") and
             (current_atr > 0)
         )
         
         sell_signal = (
-            (current_rsi > 65) and
+            (current_rsi > MAX_RSI_ENTRY) and
             (current_close > current_bb_upper) and
             (current_trend == "bullish") and
             (current_atr > 0)
@@ -336,7 +346,7 @@ def on_close(ws, close_status_code, close_msg):
     log(f"Connection closed. Code: {close_status_code}, Message: {close_msg}")
 
 if __name__ == "__main__":
-    socket_url = "wss://ws.derivws.com/websockets/v3?app_id=72161"
+    socket_url = f"wss://ws.derivws.com/websockets/v3?app_id={App_ID}"
     ws = websocket.WebSocketApp(socket_url,
                               on_open=on_open,
                               on_message=on_message,
@@ -344,4 +354,4 @@ if __name__ == "__main__":
                               on_close=on_close)
     
     log("Starting  Deriv Trading Bot with 15-Minute Candle Analysis")
-    ws.run_forever(ping_interval=30, ping_timeout=10)
+    ws.run_forever(ping_interval=30, ping_timeout=10) # uvicorn app.main:app --reload

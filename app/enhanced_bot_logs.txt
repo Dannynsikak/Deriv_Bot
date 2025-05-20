@@ -7425,3 +7425,66 @@
 [2025-05-08 17:35:00]  New candle: O:1.12276 H:1.12343 L:1.12207 C:1.12286
 [2025-05-08 17:37:03]  WebSocket Error: ping/pong timed out
 [2025-05-08 17:37:07]  Connection closed. Code: None, Message: None
+[2025-05-09 00:25:12]  Starting  Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-09 00:25:13]  Authentication request sent.
+[2025-05-09 00:25:14]  Authorization successful. Balance: $9998.00
+[2025-05-09 00:25:14]  Subscribed to frxEURUSD ticks
+[2025-05-09 00:25:14]  Requested contract details
+[2025-05-09 00:25:14]  Subscribed to balance updates
+[2025-05-09 00:25:15]  Received contracts_for data
+[2025-05-09 00:25:15]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-09 00:40:00]  New candle: O:1.12248 H:1.12260 L:1.12223 C:1.12255
+[2025-05-09 00:49:28]  WebSocket Error: ping/pong timed out
+[2025-05-09 00:49:31]  Connection closed. Code: None, Message: None
+[2025-05-10 12:19:49]  Starting  Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-10 12:19:55]  Authentication request sent.
+[2025-05-10 12:19:56]  Authorization successful. Balance: $9998.00
+[2025-05-10 12:19:56]  Subscribed to frxEURUSD ticks
+[2025-05-10 12:19:56]  Requested contract details
+[2025-05-10 12:19:56]  Subscribed to balance updates
+[2025-05-10 12:19:56]  Error: This market is presently closed.
+[2025-05-10 12:19:56]  Received contracts_for data
+[2025-05-10 12:19:56]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-10 12:58:46]  WebSocket Error: 
+[2025-05-10 12:58:46]  Connection closed. Code: None, Message: None
+[2025-05-10 12:58:52]  Starting  Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-10 12:58:58]  Authentication request sent.
+[2025-05-10 12:58:58]  Authorization successful. Balance: $9998.00
+[2025-05-10 12:58:58]  Subscribed to frxEURUSD ticks
+[2025-05-10 12:58:58]  Requested contract details
+[2025-05-10 12:58:58]  Subscribed to balance updates
+[2025-05-10 12:58:58]  Error: This market is presently closed.
+[2025-05-10 12:58:58]  Received contracts_for data
+[2025-05-10 12:58:58]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-10 12:59:41]  WebSocket Error: 
+[2025-05-10 12:59:41]  Connection closed. Code: None, Message: None
+[2025-05-19 14:30:46]  Starting  Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-19 14:30:52]  Authentication request sent.
+[2025-05-19 14:30:53]  Authorization successful. Balance: $9998.00
+[2025-05-19 14:30:53]  Subscribed to frxEURUSD ticks
+[2025-05-19 14:30:53]  Requested contract details
+[2025-05-19 14:30:53]  Subscribed to balance updates
+[2025-05-19 14:30:53]  Received contracts_for data
+[2025-05-19 14:30:53]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-19 14:46:00]  New candle: O:1.12573 H:1.12592 L:1.12502 C:1.12528
+[2025-05-19 15:01:00]  New candle: O:1.12528 H:1.12557 L:1.12473 C:1.12532
+[2025-05-19 15:34:29]  WebSocket Error: ping/pong timed out
+[2025-05-19 15:34:32]  Connection closed. Code: None, Message: None
+[2025-05-20 10:48:47]  Starting  Deriv Trading Bot with 15-Minute Candle Analysis
+[2025-05-20 10:48:53]  Authentication request sent.
+[2025-05-20 10:48:53]  Authorization successful. Balance: $9998.00
+[2025-05-20 10:48:53]  Subscribed to frxEURUSD ticks
+[2025-05-20 10:48:53]  Requested contract details
+[2025-05-20 10:48:53]  Subscribed to balance updates
+[2025-05-20 10:48:54]  Received contracts_for data
+[2025-05-20 10:48:54]  Contract limits: {'CALL': (1.0, 1000.0), 'PUT': (1.0, 1000.0)}
+[2025-05-20 11:03:00]  New candle: O:1.12519 H:1.12574 L:1.12518 C:1.12555
+[2025-05-20 11:18:00]  New candle: O:1.12555 H:1.12579 L:1.12468 C:1.12473
+[2025-05-20 11:33:00]  New candle: O:1.12473 H:1.12505 L:1.12434 C:1.12464
+[2025-05-20 11:48:02]  New candle: O:1.12464 H:1.12483 L:1.12432 C:1.12472
+[2025-05-20 12:03:00]  New candle: O:1.12472 H:1.12486 L:1.12437 C:1.12455
+[2025-05-20 12:18:00]  New candle: O:1.12455 H:1.12502 L:1.12448 C:1.12499
+[2025-05-20 12:33:00]  New candle: O:1.12499 H:1.12518 L:1.12454 C:1.12469
+[2025-05-20 12:48:00]  New candle: O:1.12469 H:1.12497 L:1.12455 C:1.12467
+[2025-05-20 13:03:10]  New candle: O:1.12467 H:1.12472 L:1.12440 C:1.12469
+[2025-05-20 13:18:00]  New candle: O:1.12469 H:1.12473 L:1.12354 C:1.12354
